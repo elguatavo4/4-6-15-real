@@ -1,31 +1,212 @@
-[01:02:00] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[01:02:01] [ServerMain/WARN]: Missing data pack paper
-[01:02:04] [ServerMain/INFO]: Loaded 1337 recipes
-[01:02:04] [ServerMain/INFO]: Loaded 1448 advancements
-[01:02:04] [Server thread/INFO]: Starting minecraft server version 1.21.3
-[01:02:04] [Server thread/INFO]: Loading properties
-[01:02:04] [Server thread/INFO]: Default game type: SURVIVAL
-[01:02:04] [Server thread/INFO]: Generating keypair
-[01:02:04] [Server thread/INFO]: Starting Minecraft server on *:25565
-[01:02:04] [Server thread/INFO]: Using epoll channel type
-[01:02:04] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[01:02:04] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[01:02:04] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[01:02:04] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[01:02:04] [Server thread/INFO]: Preparing level "world"
-[01:02:05] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[01:02:05] [Server thread/INFO]: Time elapsed: 23 ms
-[01:02:05] [Server thread/INFO]: Done (0.703s)! For help, type "help"
-[01:02:05] [Server thread/INFO]: Unknown or incomplete command, see below for error
-[01:02:05] [Server thread/INFO]: home/codespace/.python/current/bin/python3 /workspaces/4-6-15-real/msx.py<--[HERE]
-[01:02:17] [Server thread/INFO]: Stopping the server
-[01:02:17] [Server thread/INFO]: Stopping server
-[01:02:17] [Server thread/INFO]: Saving players
-[01:02:17] [Server thread/INFO]: Saving worlds
-[01:02:17] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[01:02:17] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
-[01:02:17] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
-[01:02:17] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[01:02:17] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[01:02:17] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[01:02:17] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[01:31:08] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[01:31:13] [ServerMain/INFO]: Loaded 1337 recipes
+[01:31:13] [ServerMain/INFO]: Loaded 1448 advancements
+[01:31:13] [Server thread/INFO]: Starting minecraft server version 1.21.3
+[01:31:13] [Server thread/INFO]: Loading properties
+[01:31:13] [Server thread/INFO]: Default game type: SURVIVAL
+[01:31:13] [Server thread/INFO]: Generating keypair
+[01:31:13] [Server thread/INFO]: Starting Minecraft server on *:25565
+[01:31:13] [Server thread/INFO]: Using epoll channel type
+[01:31:13] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[01:31:13] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[01:31:13] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[01:31:13] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[01:31:13] [Server thread/INFO]: Preparing level "world"
+[01:31:13] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[01:31:13] [Server thread/INFO]: Time elapsed: 23 ms
+[01:31:13] [Server thread/INFO]: Done (0.366s)! For help, type "help"
+[01:31:27] [Server thread/INFO]: elguatavo7u7159[/127.197.99.74:52401] logged in with entity id 1 at (53.697668926173776, 67.5, 65.83004244935178)
+[01:31:27] [Server thread/INFO]: elguatavo7u7159 joined the game
+[01:32:05] [Server thread/INFO]: ThiaguitoOwO2021[/127.20.82.188:37877] logged in with entity id 923 at (67.6413399154122, 65.0, 70.0249929078088)
+[01:32:05] [Server thread/INFO]: ThiaguitoOwO2021 joined the game
+[01:32:14] [Server thread/INFO]: [Not Secure] <ThiaguitoOwO2021> siiuu
+[01:32:40] [Server thread/INFO]: [Not Secure] <ThiaguitoOwO2021> oe
+[01:32:47] [Server thread/INFO]: [Not Secure] <ThiaguitoOwO2021> se reinicio el mundo pero no mis cosas
+[01:32:48] [Server thread/INFO]: [Not Secure] <ThiaguitoOwO2021> osdea
+[01:33:01] [Server thread/INFO]: c_Benji0w0[/127.231.3.24:33193] logged in with entity id 1137 at (57.14940562358771, 68.5, 65.80000001192093)
+[01:33:01] [Server thread/INFO]: c_Benji0w0 joined the game
+[01:33:14] [Server thread/INFO]: [Not Secure] <ThiaguitoOwO2021> gyus
+[01:33:15] [Server thread/INFO]: [Not Secure] <ThiaguitoOwO2021> krajo
+[01:33:18] [Server thread/INFO]: [Not Secure] <ThiaguitoOwO2021> D:
+[01:33:25] [Server thread/INFO]: [Not Secure] <ThiaguitoOwO2021> un problema
+[01:33:39] [Server thread/INFO]: [Not Secure] <ThiaguitoOwO2021> un problema pe
+[01:33:47] [Server thread/INFO]: [Not Secure] <ThiaguitoOwO2021> gus
+[01:33:56] [Server thread/INFO]: [Not Secure] <ThiaguitoOwO2021> gus
+[01:34:09] [Server thread/INFO]: [Not Secure] <ThiaguitoOwO2021> pe
+[01:34:13] [Server thread/INFO]: [Not Secure] <ThiaguitoOwO2021> un problema
+[01:34:21] [Server thread/INFO]: [Not Secure] <ThiaguitoOwO2021> wee
+[01:34:25] [Server thread/INFO]: [Not Secure] <ThiaguitoOwO2021> we
+[01:34:36] [Server thread/INFO]: [Not Secure] <ThiaguitoOwO2021> un problema we
+[01:34:43] [Server thread/INFO]: [Not Secure] <ThiaguitoOwO2021> mano
+[01:34:48] [Server thread/INFO]: [Not Secure] <ThiaguitoOwO2021> pe
+[01:34:50] [Server thread/INFO]: [Not Secure] <ThiaguitoOwO2021> gustavo
+[01:34:55] [Server thread/INFO]: [Not Secure] <ThiaguitoOwO2021> un gran problema
+[01:34:57] [Server thread/INFO]: [Not Secure] <ThiaguitoOwO2021> krajo
+[01:34:59] [Server thread/INFO]: [Not Secure] <ThiaguitoOwO2021> responde
+[01:35:09] [Server thread/INFO]: [Not Secure] <ThiaguitoOwO2021> responde pe
+[01:35:17] [Server thread/INFO]: [Not Secure] <ThiaguitoOwO2021> responde
+[01:35:18] [Server thread/INFO]: [Not Secure] <ThiaguitoOwO2021> krajo
+[01:35:31] [Server thread/INFO]: [Not Secure] <ThiaguitoOwO2021> responde w
+[01:35:49] [Server thread/WARN]: Player ThiaguitoOwO2021 just tried to change non-editable sign
+[01:35:51] [Server thread/WARN]: Player ThiaguitoOwO2021 just tried to change non-editable sign
+[01:35:51] [Server thread/WARN]: Player ThiaguitoOwO2021 just tried to change non-editable sign
+[01:35:51] [Server thread/WARN]: Player ThiaguitoOwO2021 just tried to change non-editable sign
+[01:35:51] [Server thread/WARN]: Player ThiaguitoOwO2021 just tried to change non-editable sign
+[01:35:51] [Server thread/WARN]: Player ThiaguitoOwO2021 just tried to change non-editable sign
+[01:35:51] [Server thread/WARN]: Player ThiaguitoOwO2021 just tried to change non-editable sign
+[01:35:51] [Server thread/WARN]: Player ThiaguitoOwO2021 just tried to change non-editable sign
+[01:35:52] [Server thread/WARN]: Player ThiaguitoOwO2021 just tried to change non-editable sign
+[01:35:52] [Server thread/WARN]: Player ThiaguitoOwO2021 just tried to change non-editable sign
+[01:35:52] [Server thread/WARN]: Player ThiaguitoOwO2021 just tried to change non-editable sign
+[01:35:53] [Server thread/WARN]: Player ThiaguitoOwO2021 just tried to change non-editable sign
+[01:35:53] [Server thread/WARN]: Player ThiaguitoOwO2021 just tried to change non-editable sign
+[01:35:53] [Server thread/WARN]: Player ThiaguitoOwO2021 just tried to change non-editable sign
+[01:35:53] [Server thread/WARN]: Player ThiaguitoOwO2021 just tried to change non-editable sign
+[01:35:53] [Server thread/WARN]: Player ThiaguitoOwO2021 just tried to change non-editable sign
+[01:35:57] [Server thread/INFO]: [Not Secure] <ThiaguitoOwO2021> rsponda
+[01:36:03] [Server thread/INFO]: [Not Secure] <ThiaguitoOwO2021> weee
+[01:36:06] [Server thread/INFO]: [Not Secure] <ThiaguitoOwO2021> we
+[01:36:09] [Server thread/INFO]: [Not Secure] <ThiaguitoOwO2021> responda we
+[01:36:14] [Server thread/INFO]: [Not Secure] <ThiaguitoOwO2021> gus
+[01:36:16] [Server thread/INFO]: [Not Secure] <ThiaguitoOwO2021> f
+[01:36:19] [Server thread/INFO]: [Not Secure] <ThiaguitoOwO2021> weee
+[01:36:22] [Server thread/INFO]: [Not Secure] <ThiaguitoOwO2021> wee
+[01:36:24] [Server thread/INFO]: [Not Secure] <ThiaguitoOwO2021> responde pe
+[01:36:52] [Server thread/INFO]: [Not Secure] <ThiaguitoOwO2021> las cosas
+[01:36:55] [Server thread/INFO]: [Not Secure] <ThiaguitoOwO2021> no se me guardaron
+[01:37:04] [Server thread/INFO]: [Not Secure] <ThiaguitoOwO2021> no tengo el ojo de araña
+[01:37:06] [Server thread/INFO]: [Not Secure] <ThiaguitoOwO2021> fermentada
+[01:37:27] [Server thread/INFO]: [Not Secure] <ThiaguitoOwO2021> nonon
+[01:37:31] [Server thread/INFO]: [Not Secure] <ThiaguitoOwO2021> no existen
+[01:37:42] [Server thread/INFO]: [Not Secure] <ThiaguitoOwO2021> no existen la pociones
+[01:37:46] [Server thread/INFO]: [Not Secure] <ThiaguitoOwO2021> en el otro las hicew
+[01:38:06] [Server thread/INFO]: [Not Secure] <ThiaguitoOwO2021> kiero hongo we
+[01:38:11] [Server thread/INFO]: [Not Secure] <ThiaguitoOwO2021> hongo pe
+[01:38:15] [Server thread/INFO]: [Not Secure] <ThiaguitoOwO2021> lo unico k kiero
+[01:39:10] [Server thread/INFO]: [Not Secure] <ThiaguitoOwO2021> we necesito hongo
+[01:39:41] [Server thread/INFO]: [Not Secure] <ThiaguitoOwO2021> D:
+[01:40:16] [Server thread/INFO]: [Not Secure] <ThiaguitoOwO2021> kiero hongo pe
+[01:40:59] [Server thread/INFO]: [Not Secure] <ThiaguitoOwO2021> necesito hongo pe :(
+[01:41:34] [Server thread/INFO]: [Not Secure] <ThiaguitoOwO2021> DAME ALGAS
+[01:41:52] [Server thread/INFO]: [Not Secure] <ThiaguitoOwO2021> NO C GUARDARON PE
+[01:42:14] [Server thread/INFO]: [Not Secure] <ThiaguitoOwO2021> eso fue cuando el uriel detomo
+[01:42:20] [Server thread/INFO]: [Not Secure] <ThiaguitoOwO2021> dame algas pe
+[01:42:58] [Server thread/INFO]: [Not Secure] <ThiaguitoOwO2021> necesito algas
+[01:43:07] [Server thread/INFO]: [Not Secure] <ThiaguitoOwO2021> gustavo las algas no se guardaron
+[01:43:17] [Server thread/INFO]: [Not Secure] <ThiaguitoOwO2021> me los diste cuando uriel detono a los aldeano
+[01:43:23] [Server thread/INFO]: [Not Secure] <ThiaguitoOwO2021> WE
+[01:43:24] [Server thread/INFO]: [Not Secure] <ThiaguitoOwO2021> WE
+[01:43:29] [Server thread/INFO]: [Not Secure] <ThiaguitoOwO2021> GUSTAVO
+[01:43:52] [Server thread/INFO]: [Not Secure] <ThiaguitoOwO2021> ALGAS PE
+[01:43:54] [Server thread/INFO]: [Not Secure] <ThiaguitoOwO2021> PA VOLVER
+[01:43:59] [Server thread/INFO]: [Not Secure] <ThiaguitoOwO2021> :(
+[01:44:17] [Server thread/INFO]: [Not Secure] <ThiaguitoOwO2021> pe
+[01:44:21] [Server thread/INFO]: [Not Secure] <ThiaguitoOwO2021> algas
+[01:44:29] [Server thread/INFO]: [Not Secure] <ThiaguitoOwO2021> algas
+[01:44:29] [Server thread/INFO]: [Not Secure] <ThiaguitoOwO2021> mrd
+[01:44:39] [Server thread/INFO]: [Not Secure] <ThiaguitoOwO2021> noonn
+[01:44:42] [Server thread/INFO]: [Not Secure] <ThiaguitoOwO2021> eso fue lo del uriel
+[01:45:22] [Server thread/INFO]: [Not Secure] <ThiaguitoOwO2021> dame algas pe
+[01:45:45] [Server thread/INFO]: ThiaguitoOwO2021 lost connection: Disconnected
+[01:45:45] [Server thread/INFO]: ThiaguitoOwO2021 left the game
+[01:45:58] [Server thread/INFO]: ThiaguitoOwO2021[/127.20.82.188:37257] logged in with entity id 4554 at (69.48500116125933, 64.0, 107.07513651893346)
+[01:45:58] [Server thread/INFO]: ThiaguitoOwO2021 joined the game
+[01:46:01] [Server thread/INFO]: [Not Secure] <ThiaguitoOwO2021> dame algas
+[01:46:09] [Server thread/INFO]: [Not Secure] <ThiaguitoOwO2021> pero tenias
+[01:46:15] [Server thread/INFO]: [Not Secure] <ThiaguitoOwO2021> osea
+[01:46:22] [Server thread/INFO]: [Not Secure] <ThiaguitoOwO2021> tu me lo diste cuando el uriel detono
+[01:46:24] [Server thread/INFO]: [Not Secure] <ThiaguitoOwO2021> con tnt
+[01:46:28] [Server thread/INFO]: [Not Secure] <ThiaguitoOwO2021> lo debes tener
+[01:46:31] [Server thread/INFO]: [Not Secure] <ThiaguitoOwO2021> por el backup
+[01:46:51] [Server thread/INFO]: [Not Secure] <ThiaguitoOwO2021> por eso
+[01:46:53] [Server thread/INFO]: [Not Secure] <ThiaguitoOwO2021> c borro las algas
+[01:47:34] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=6, y=115, z=11} jh{x=7, y=116, z=12}
+[01:48:07] [Server thread/INFO]: [Not Secure] <ThiaguitoOwO2021> algas pe
+[01:50:04] [Server thread/WARN]: UUID of added entity already exists: cpj['Farmer'/6094, l='ServerLevel[world]', x=-163.50, y=64.00, z=-304.13]
+[01:50:04] [Server thread/WARN]: UUID of added entity already exists: cic['Chicken'/6095, l='ServerLevel[world]', x=-152.83, y=64.00, z=-306.87]
+[02:01:47] [Server thread/INFO]: Villager cpj['Librarian'/821, l='ServerLevel[world]', x=66.68, y=71.00, z=65.68] died, message: 'Librarian was slain by Zombie'
+[02:03:08] [Server thread/INFO]: [Not Secure] <ThiaguitoOwO2021> tienes oro?
+[02:03:09] [Server thread/INFO]: [Not Secure] <ThiaguitoOwO2021> :v
+[02:06:49] [Server thread/INFO]: [Not Secure] <ThiaguitoOwO2021> tienes polvora? :3
+[02:11:53] [Server thread/INFO]: c_Benji0w0 lost connection: Disconnected
+[02:11:53] [Server thread/INFO]: c_Benji0w0 left the game
+[02:12:45] [Server thread/INFO]: [Not Secure] <ThiaguitoOwO2021> GUS
+[02:12:49] [Server thread/INFO]: [Not Secure] <ThiaguitoOwO2021> EL JUEGO TA EN DIFICIL?
+[02:13:19] [Server thread/INFO]: [Not Secure] <ThiaguitoOwO2021> PE GUS
+[02:13:45] [Server thread/INFO]: [Not Secure] <ThiaguitoOwO2021> WE
+[02:13:48] [Server thread/INFO]: [Not Secure] <ThiaguitoOwO2021> REPSONDA PE
+[02:14:00] [Server thread/INFO]: [Not Secure] <ThiaguitoOwO2021> ZZ
+[02:14:33] [Server thread/INFO]: [Not Secure] <ThiaguitoOwO2021> WE
+[02:14:41] [Server thread/INFO]: [Not Secure] <ThiaguitoOwO2021> el juego ta en dificil?
+[02:14:49] [Server thread/INFO]: [elguatavo7u7159: The difficulty has been set to Hard]
+[02:14:52] [Server thread/INFO]: [Not Secure] <ThiaguitoOwO2021> ?
+[02:15:06] [Server thread/INFO]: [Not Secure] <ThiaguitoOwO2021> si o no pe
+[02:15:50] [Server thread/INFO]: [Not Secure] <ThiaguitoOwO2021> no c te esucha nada pe
+[02:15:59] [Server thread/INFO]: [Not Secure] <elguatavo7u7159> Q
+[02:16:07] [Server thread/INFO]: [Not Secure] <ThiaguitoOwO2021> ta dificil el juego?
+[02:16:23] [Server thread/INFO]: [Not Secure] <ThiaguitoOwO2021> siis
+[02:16:25] [Server thread/INFO]: [Not Secure] <ThiaguitoOwO2021> ya c escucha
+[02:16:36] [Server thread/INFO]: [Not Secure] <ThiaguitoOwO2021> esq la anterior vez el aldeno muerio
+[02:16:52] [Server thread/INFO]: [Not Secure] <ThiaguitoOwO2021> cuando esta en dificil el aldeano c hace zombi al 100%
+[02:17:36] [Server thread/INFO]: [Not Secure] <ThiaguitoOwO2021> zzzz
+[02:17:40] [Server thread/INFO]: elguatavo7u7159 lost connection: Disconnected
+[02:17:40] [Server thread/INFO]: elguatavo7u7159 left the game
+[02:17:48] [Server thread/INFO]: elguatavo7u7159[/127.197.99.74:49317] logged in with entity id 19626 at (-94.09772153979478, 94.0, -117.88018864368429)
+[02:17:48] [Server thread/INFO]: elguatavo7u7159 joined the game
+[02:18:26] [Server thread/INFO]: [Not Secure] <ThiaguitoOwO2021> y si compro 4 etiqueta con cada modulo que hagamps
+[02:18:30] [Server thread/INFO]: [Not Secure] <ThiaguitoOwO2021> con cada piso
+[02:18:56] [Server thread/INFO]: [Not Secure] <ThiaguitoOwO2021> si pe
+[02:19:22] [Server thread/WARN]: UUID of added entity already exists: cpj['Nitwit'/20338, l='ServerLevel[world]', x=-164.50, y=65.00, z=-323.89]
+[02:19:39] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=59, y=64, z=109} jh{x=2, y=67, z=3}
+[02:19:39] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=59, y=64, z=109} jh{x=3, y=67, z=3}
+[02:19:39] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=59, y=64, z=109} jh{x=3, y=67, z=3}
+[02:19:40] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=59, y=64, z=109} jh{x=3, y=67, z=2}
+[02:19:40] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=59, y=64, z=109} jh{x=2, y=67, z=2}
+[02:19:40] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=59, y=64, z=109} jh{x=2, y=67, z=3}
+[02:19:40] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=59, y=64, z=109} jh{x=3, y=67, z=3}
+[02:19:40] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=59, y=64, z=109} jh{x=3, y=67, z=3}
+[02:19:40] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=59, y=64, z=109} jh{x=3, y=67, z=2}
+[02:19:40] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=59, y=64, z=109} jh{x=3, y=67, z=2}
+[02:19:41] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=59, y=64, z=109} jh{x=3, y=67, z=2}
+[02:28:51] [Server thread/INFO]: [Not Secure] <ThiaguitoOwO2021> no t escucho por cierto
+[02:30:08] [Server thread/INFO]: [Not Secure] <ThiaguitoOwO2021> 0
+[02:30:40] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=56, y=67, z=66} jh{x=77, y=70, z=67}
+[02:32:56] [Server thread/INFO]: [Not Secure] <ThiaguitoOwO2021> pera
+[02:33:06] [Server thread/INFO]: [Not Secure] <ThiaguitoOwO2021> zombie matando aldeano
+[02:33:19] [Server thread/INFO]: Villager cpj['Librarian'/18462, l='ServerLevel[world]', x=76.70, y=68.00, z=66.66] died, message: 'Librarian was slain by Zombie'
+[02:34:23] [Server thread/INFO]: [Not Secure] <ThiaguitoOwO2021> ya
+[02:34:27] [Server thread/INFO]: [Not Secure] <ThiaguitoOwO2021> sis
+[02:34:31] [Server thread/INFO]: elguatavo7u7159 lost connection: Disconnected
+[02:34:31] [Server thread/INFO]: elguatavo7u7159 left the game
+[02:34:37] [Server thread/INFO]: Villager cpj['Fletcher'/675, l='ServerLevel[world]', x=72.69, y=68.00, z=61.69] died, message: 'Fletcher was slain by Zombie'
+[02:34:38] [Server thread/INFO]: elguatavo7u7159[/127.197.99.74:38493] logged in with entity id 26502 at (-80.15298367747413, 94.0, -118.61862975897456)
+[02:34:38] [Server thread/INFO]: elguatavo7u7159 joined the game
+[02:36:53] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=14, y=113, z=26} jh{x=5, y=116, z=26}
+[02:43:03] [Server thread/INFO]: [Not Secure] <ThiaguitoOwO2021> pera pe
+[02:43:06] [Server thread/INFO]: [Not Secure] <ThiaguitoOwO2021> un cacho
+[02:45:16] [Server thread/INFO]: [Not Secure] <ThiaguitoOwO2021> ES IGUAAAAAL
+[02:45:19] [Server thread/INFO]: [Not Secure] <ThiaguitoOwO2021> EES IGUAAAAAAAAL
+[02:45:36] [Server thread/INFO]: [Not Secure] <ThiaguitoOwO2021> no bajó de precio
+[02:45:43] [Server thread/INFO]: [Not Secure] <ThiaguitoOwO2021> nonon
+[02:46:35] [Server thread/INFO]: [Not Secure] <ThiaguitoOwO2021> necesito 16 stack de esmeralda
+[02:46:39] [Server thread/INFO]: [Not Secure] <ThiaguitoOwO2021> D:
+[02:47:24] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=-102, y=117, z=-132} jh{x=-102, y=117, z=-139}
+[02:47:54] [Server thread/INFO]: ThiaguitoOwO2021 lost connection: Disconnected
+[02:47:54] [Server thread/INFO]: ThiaguitoOwO2021 left the game
+[02:51:07] [Server thread/INFO]: elguatavo7u7159 lost connection: Disconnected
+[02:51:07] [Server thread/INFO]: elguatavo7u7159 left the game
+[02:51:12] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[02:51:12] [Server thread/INFO]: STOP<--[HERE]
+[02:51:15] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[02:51:15] [Server thread/INFO]: rtop<--[HERE]
+[02:51:18] [Server thread/INFO]: Stopping the server
+[02:51:18] [Server thread/INFO]: Stopping server
+[02:51:18] [Server thread/INFO]: Saving players
+[02:51:18] [Server thread/INFO]: Saving worlds
+[02:51:18] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[02:51:18] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[02:51:18] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[02:51:18] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[02:51:18] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[02:51:18] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[02:51:18] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
