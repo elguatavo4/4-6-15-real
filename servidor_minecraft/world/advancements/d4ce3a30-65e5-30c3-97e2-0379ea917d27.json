@@ -703,6 +703,12 @@
     },
     "done": true
   },
+  "minecraft:nether/explore_nether": {
+    "criteria": {
+      "minecraft:nether_wastes": "2025-06-08 18:28:34 +0000"
+    },
+    "done": false
+  },
   "minecraft:nether/root": {
     "criteria": {
       "entered_nether": "2025-06-08 18:28:33 +0000"
