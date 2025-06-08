@@ -747,6 +747,7 @@
       "minecraft:phantom": "2025-06-03 21:48:05 +0000",
       "minecraft:witch": "2025-06-01 02:53:40 +0000",
       "minecraft:wither_skeleton": "2025-06-03 22:30:18 +0000",
+      "minecraft:ravager": "2025-06-08 01:47:42 +0000",
       "minecraft:ender_dragon": "2025-06-02 01:37:41 +0000",
       "minecraft:shulker": "2025-06-02 01:57:03 +0000",
       "minecraft:piglin": "2025-05-30 00:45:29 +0000",
@@ -3181,6 +3182,12 @@
   "minecraft:story/cure_zombie_villager": {
     "criteria": {
       "cured_zombie": "2025-06-05 01:21:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/hero_of_the_village": {
+    "criteria": {
+      "hero_of_the_village": "2025-06-08 01:49:06 +0000"
     },
     "done": true
   },

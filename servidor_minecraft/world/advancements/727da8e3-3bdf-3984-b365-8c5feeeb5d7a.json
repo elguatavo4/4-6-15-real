@@ -525,6 +525,7 @@
     "criteria": {
       "minecraft:pillager": "2025-06-03 02:01:37 +0000",
       "minecraft:skeleton": "2025-06-03 00:42:06 +0000",
+      "minecraft:vindicator": "2025-06-08 01:46:58 +0000",
       "minecraft:witch": "2025-06-08 00:48:58 +0000",
       "minecraft:spider": "2025-06-03 02:04:29 +0000",
       "minecraft:zombie": "2025-06-02 23:31:24 +0000",
@@ -2044,6 +2045,12 @@
   "minecraft:recipes/transportation/mangrove_chest_boat": {
     "criteria": {
       "has_boat": "2025-06-08 01:30:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/hero_of_the_village": {
+    "criteria": {
+      "hero_of_the_village": "2025-06-08 01:49:06 +0000"
     },
     "done": true
   },

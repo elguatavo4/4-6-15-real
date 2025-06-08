@@ -140,3 +140,23 @@
 [01:38:25] [Server thread/INFO]: elguatavo7u7159 left the game
 [01:38:34] [Server thread/INFO]: elguatavo7u7159[/127.232.85.242:50043] logged in with entity id 53792 at (-114.29569231559118, 185.0, -122.44532386638609)
 [01:38:34] [Server thread/INFO]: elguatavo7u7159 joined the game
+[01:41:43] [Server thread/INFO]: mechajuan3 was slain by NAT3333
+[01:47:09] [Server thread/WARN]: mechajuan3 moved too quickly! -1.1128138612499185,0.12789023820548096,-10.113876885942645
+[01:47:13] [Server thread/INFO]: Villager cpj['Villager'/57041, l='ServerLevel[world]', x=4.50, y=116.00, z=13.70] died, message: 'Villager was slain by elguatavo7u7159'
+[01:48:48] [Server thread/INFO]: NAT3333 has made the advancement [Voluntary Exile]
+[01:49:06] [Server thread/INFO]: NAT3333 has completed the challenge [Hero of the Village]
+[01:49:06] [Server thread/INFO]: elguatavo7u7159 has completed the challenge [Hero of the Village]
+[01:49:06] [Server thread/INFO]: mechajuan3 has completed the challenge [Hero of the Village]
+[01:49:06] [Server thread/INFO]: ThiaguitoOwO2021 has completed the challenge [Hero of the Village]
+[01:50:38] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=60, y=68, z=64} jh{x=59, y=69, z=65}
+[01:50:38] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=60, y=68, z=64} jh{x=59, y=69, z=65}
+[01:52:51] [Server thread/INFO]: [Not Secure] <elguatavo7u7159> -7 -15
+[01:55:41] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=76, y=70, z=63} jh{x=76, y=70, z=65}
+[01:56:37] [Server thread/INFO]: elguatavo7u7159 lost connection: Disconnected
+[01:56:37] [Server thread/INFO]: elguatavo7u7159 left the game
+[01:57:28] [Server thread/INFO]: Villager cpj['Librarian'/21075, l='ServerLevel[world]', x=76.70, y=68.00, z=66.66] died, message: 'Librarian was slain by Zombie'
+[01:59:03] [Server thread/INFO]: elguatavo7u7159[/127.232.85.242:38953] logged in with entity id 62641 at (-84.12102242643616, 118.0, -121.46251125992232)
+[01:59:03] [Server thread/INFO]: elguatavo7u7159 joined the game
+[01:59:09] [Server thread/INFO]: [elguatavo7u7159: The difficulty has been set to Hard]
+[02:00:01] [Server thread/INFO]: mechajuan3 lost connection: Disconnected
+[02:00:01] [Server thread/INFO]: mechajuan3 left the game
