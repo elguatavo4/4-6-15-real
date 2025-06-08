@@ -137,3 +137,18 @@
 [19:07:31] [Server thread/INFO]: ThiaguitoOwO2021 left the game
 [19:07:42] [Server thread/INFO]: ThiaguitoOwO2021[/127.20.82.188:50177] logged in with entity id 56889 at (-56.65526871303253, 69.0, -77.36476719081067)
 [19:07:42] [Server thread/INFO]: ThiaguitoOwO2021 joined the game
+[19:13:29] [Server thread/INFO]: Villager cpj['Villager'/59068, l='ServerLevel[world]', x=-104.90, y=158.56, z=-98.05] died, message: 'Villager was shot by elguatavo7u7159'
+[19:13:30] [Server thread/INFO]: Villager cpj['Villager'/58844, l='ServerLevel[world]', x=-104.95, y=158.56, z=-99.20] died, message: 'Villager was burned to a crisp while fighting elguatavo7u7159'
+[19:16:11] [Server thread/INFO]: ThiaguitoOwO2021 lost connection: Disconnected
+[19:16:11] [Server thread/INFO]: ThiaguitoOwO2021 left the game
+[19:16:35] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=-66, y=198, z=-121} jh{x=-124, y=162, z=-121}
+[19:17:29] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=-109, y=163, z=-121} jh{x=-103, y=165, z=-123}
+[19:18:03] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=-109, y=163, z=-121} jh{x=-105, y=165, z=-121}
+[19:20:27] [Server thread/INFO]: ThiaguitoOwO2021[/127.20.82.188:47323] logged in with entity id 62051 at (-57.10870668788791, 77.0, -75.730149757973)
+[19:20:27] [Server thread/INFO]: ThiaguitoOwO2021 joined the game
+[19:20:30] [Server thread/INFO]: Villager cpj['Villager'/61981, l='ServerLevel[world]', x=-105.29, y=158.56, z=-99.56] died, message: 'Villager was slain by Zombie'
+[19:20:34] [Server thread/INFO]: Villager cpj['Villager'/61982, l='ServerLevel[world]', x=-105.70, y=158.56, z=-97.36] died, message: 'Villager was slain by Zombie Villager'
+[19:20:35] [Server thread/INFO]: Villager cpj['Villager'/62062, l='ServerLevel[world]', x=-124.66, y=158.56, z=-121.64] died, message: 'Villager was slain by Zombie'
+[19:20:36] [Server thread/INFO]: Villager cpj['Villager'/61980, l='ServerLevel[world]', x=-105.11, y=158.56, z=-99.70] died, message: 'Villager was slain by Zombie'
+[19:20:40] [Server thread/INFO]: Villager cpj['Villager'/62060, l='ServerLevel[world]', x=-125.29, y=158.56, z=-120.30] died, message: 'Villager was slain by Zombie'
+[19:20:43] [Server thread/INFO]: Villager cpj['Villager'/62061, l='ServerLevel[world]', x=-126.65, y=158.69, z=-121.65] died, message: 'Villager was slain by Zombie'
