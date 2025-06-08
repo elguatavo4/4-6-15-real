@@ -1,19 +1,32 @@
-[23:49:05] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[23:49:11] [ServerMain/INFO]: Loaded 1337 recipes
-[23:49:11] [ServerMain/INFO]: Loaded 1448 advancements
-[23:49:11] [Server thread/INFO]: Starting minecraft server version 1.21.3
-[23:49:11] [Server thread/INFO]: Loading properties
-[23:49:11] [Server thread/INFO]: Default game type: SURVIVAL
-[23:49:11] [Server thread/INFO]: Generating keypair
-[23:49:11] [Server thread/INFO]: Starting Minecraft server on *:25565
-[23:49:11] [Server thread/INFO]: Using epoll channel type
-[23:49:11] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[23:49:11] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[23:49:11] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[23:49:11] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[23:49:11] [Server thread/INFO]: Preparing level "world"
-[23:49:12] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[23:49:12] [Server thread/INFO]: Time elapsed: 26 ms
-[23:49:12] [Server thread/INFO]: Done (0.826s)! For help, type "help"
-[23:50:21] [Server thread/INFO]: elguatavo7u7159[/127.232.85.242:45709] logged in with entity id 1 at (-95.19948242027611, 117.0, -121.73461602011187)
-[23:50:21] [Server thread/INFO]: elguatavo7u7159 joined the game
+[00:12:02] [Server thread/INFO]: elguatavo7u7159 lost connection: Disconnected
+[00:12:02] [Server thread/INFO]: elguatavo7u7159 left the game
+[00:12:14] [Server thread/INFO]: elguatavo7u7159[/127.232.85.242:49023] logged in with entity id 5511 at (-102.33799632637685, 117.0, -133.79277446902333)
+[00:12:14] [Server thread/INFO]: elguatavo7u7159 joined the game
+[00:13:42] [Server thread/INFO]: NAT3333[/127.126.92.91:38345] logged in with entity id 6221 at (-472.516654928321, 79.92159999847412, 1304.5489695487563)
+[00:13:42] [Server thread/INFO]: NAT3333 joined the game
+[00:15:32] [Server thread/INFO]: elguatavo7u7159 lost connection: Disconnected
+[00:15:32] [Server thread/INFO]: elguatavo7u7159 left the game
+[00:15:42] [Server thread/INFO]: elguatavo7u7159[/127.232.85.242:40329] logged in with entity id 7095 at (-102.87261999977387, 117.0, -108.32147222937554)
+[00:15:42] [Server thread/INFO]: elguatavo7u7159 joined the game
+[00:26:25] [Server thread/INFO]: elguatavo7u7159 lost connection: Disconnected
+[00:26:25] [Server thread/INFO]: elguatavo7u7159 left the game
+[00:26:43] [Server thread/INFO]: elguatavo7u7159[/127.232.85.242:52767] logged in with entity id 12272 at (-105.06044903647229, 139.0, -134.1968868982515)
+[00:26:43] [Server thread/INFO]: elguatavo7u7159 joined the game
+[00:35:02] [Server thread/INFO]: mechajuan3[/127.241.198.181:49555] logged in with entity id 16421 at (132.4386719593609, 63.0, 334.5910515384368)
+[00:35:02] [Server thread/INFO]: mechajuan3 joined the game
+[00:37:08] [Server thread/INFO]: mechajuan3 lost connection: Disconnected
+[00:37:08] [Server thread/INFO]: mechajuan3 left the game
+[00:37:10] [Server thread/INFO]: elguatavo7u7159 lost connection: Disconnected
+[00:37:10] [Server thread/INFO]: elguatavo7u7159 left the game
+[00:37:22] [Server thread/INFO]: elguatavo7u7159[/127.232.85.242:60653] logged in with entity id 17883 at (-101.84872864294987, 139.0, -96.01633014419086)
+[00:37:22] [Server thread/INFO]: elguatavo7u7159 joined the game
+[00:37:25] [Server thread/INFO]: mechajuan3[/127.241.198.181:54393] logged in with entity id 18237 at (-106.34505928653977, 67.0, 435.9004010055798)
+[00:37:25] [Server thread/INFO]: mechajuan3 joined the game
+[00:37:28] [Server thread/INFO]: mechajuan3 lost connection: Disconnected
+[00:37:28] [Server thread/INFO]: mechajuan3 left the game
+[00:37:31] [Server thread/INFO]: elguatavo7u7159 lost connection: Disconnected
+[00:37:31] [Server thread/INFO]: elguatavo7u7159 left the game
+[00:37:43] [Server thread/INFO]: mechajuan3[/127.241.198.181:55365] logged in with entity id 18544 at (-106.34505928653977, 67.0, 435.9004010055798)
+[00:37:43] [Server thread/INFO]: mechajuan3 joined the game
+[00:37:47] [Server thread/INFO]: elguatavo7u7159[/127.232.85.242:41915] logged in with entity id 18790 at (-103.78700034411155, 139.0, -96.86913480252527)
+[00:37:47] [Server thread/INFO]: elguatavo7u7159 joined the game
