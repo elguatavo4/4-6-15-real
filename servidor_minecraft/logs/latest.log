@@ -192,3 +192,11 @@
 [02:50:50] [Server thread/INFO]: [Not Secure] <NAT3333> el zombie chiqurio
 [02:51:04] [Server thread/INFO]: [Not Secure] <NAT3333> porfa thiAagoooo
 [02:51:09] [Server thread/INFO]: [Not Secure] <NAT3333> miscosas
+[02:55:11] [Server thread/INFO]: NAT3333 lost connection: Disconnected
+[02:55:11] [Server thread/INFO]: NAT3333 left the game
+[02:56:31] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=71, y=67, z=59} jh{x=70, y=68, z=59}
+[02:56:32] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=71, y=67, z=59} jh{x=69, y=68, z=59}
+[03:05:41] [Server thread/INFO]: Villager cpj['Librarian'/86900, l='ServerLevel[world]', x=76.50, y=68.00, z=63.62] died, message: 'Librarian was slain by ThiaguitoOwO2021'
+[03:11:07] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=76, y=68, z=64} jh{x=76, y=68, z=65}
+[03:11:07] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=76, y=68, z=64} jh{x=76, y=68, z=65}
+[03:11:24] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=49, y=64, z=76} jh{x=50, y=63, z=76}
