@@ -35,3 +35,8 @@
 [00:48:26] [Server thread/INFO]: elguatavo7u7159[/127.232.85.242:45117] logged in with entity id 26334 at (-100.5000054843423, 156.0, -117.06994559690607)
 [00:48:26] [Server thread/INFO]: elguatavo7u7159 joined the game
 [00:49:07] [Server thread/INFO]: mechajuan3 was killed by Witch using magic
+[00:49:52] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=0, y=0, z=0} jh{x=10, y=66, z=-4}
+[00:49:54] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=0, y=0, z=0} jh{x=10, y=66, z=-4}
+[00:49:58] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=0, y=0, z=0} jh{x=6, y=68, z=-1}
+[00:49:58] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=0, y=0, z=0} jh{x=5, y=68, z=-1}
+[00:50:00] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=0, y=0, z=0} jh{x=7, y=68, z=-1}

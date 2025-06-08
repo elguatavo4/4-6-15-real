@@ -373,6 +373,7 @@
     "criteria": {
       "cooked_porkchop": "2025-06-08 00:38:24 +0000",
       "bread": "2025-06-03 01:39:10 +0000",
+      "cooked_chicken": "2025-06-08 00:51:22 +0000",
       "rotten_flesh": "2025-06-03 02:23:55 +0000",
       "glow_berries": "2025-06-03 02:33:02 +0000",
       "sweet_berries": "2025-06-03 19:14:56 +0000",
@@ -1989,6 +1990,18 @@
   "minecraft:recipes/misc/red_dye_from_poppy": {
     "criteria": {
       "has_poppy": "2025-06-03 19:13:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/white_dye": {
+    "criteria": {
+      "has_bone_meal": "2025-06-08 00:53:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bone_block": {
+    "criteria": {
+      "has_bone_meal": "2025-06-08 00:53:26 +0000"
     },
     "done": true
   },
