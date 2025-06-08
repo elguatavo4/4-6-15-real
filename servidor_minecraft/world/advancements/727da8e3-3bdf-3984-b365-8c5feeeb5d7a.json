@@ -371,10 +371,12 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "cooked_porkchop": "2025-06-08 00:38:24 +0000",
       "bread": "2025-06-03 01:39:10 +0000",
       "rotten_flesh": "2025-06-03 02:23:55 +0000",
       "glow_berries": "2025-06-03 02:33:02 +0000",
       "sweet_berries": "2025-06-03 19:14:56 +0000",
+      "cooked_beef": "2025-06-08 00:43:40 +0000",
       "pumpkin_pie": "2025-06-02 23:10:38 +0000",
       "carrot": "2025-06-03 18:26:41 +0000"
     },
@@ -522,6 +524,7 @@
     "criteria": {
       "minecraft:pillager": "2025-06-03 02:01:37 +0000",
       "minecraft:skeleton": "2025-06-03 00:42:06 +0000",
+      "minecraft:witch": "2025-06-08 00:48:58 +0000",
       "minecraft:spider": "2025-06-03 02:04:29 +0000",
       "minecraft:zombie": "2025-06-02 23:31:24 +0000",
       "minecraft:creeper": "2025-06-03 02:05:01 +0000",
