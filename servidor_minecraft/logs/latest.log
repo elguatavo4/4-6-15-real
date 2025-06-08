@@ -160,3 +160,6 @@
 [01:59:09] [Server thread/INFO]: [elguatavo7u7159: The difficulty has been set to Hard]
 [02:00:01] [Server thread/INFO]: mechajuan3 lost connection: Disconnected
 [02:00:01] [Server thread/INFO]: mechajuan3 left the game
+[02:09:43] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=129, y=76, z=234} jh{x=129, y=77, z=233}
+[02:10:49] [Server thread/INFO]: NAT3333 was slain by Zombie
+[02:14:19] [Server thread/INFO]: elguatavo7u7159 was shot by Skeleton
