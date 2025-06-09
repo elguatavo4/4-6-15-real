@@ -1,127 +1,46 @@
-[01:08:48] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[01:08:54] [ServerMain/INFO]: Loaded 1337 recipes
-[01:08:54] [ServerMain/INFO]: Loaded 1448 advancements
-[01:08:56] [Server thread/INFO]: Starting minecraft server version 1.21.3
-[01:08:56] [Server thread/INFO]: Loading properties
-[01:08:56] [Server thread/INFO]: Default game type: SURVIVAL
-[01:08:56] [Server thread/INFO]: Generating keypair
-[01:08:56] [Server thread/INFO]: Starting Minecraft server on *:25565
-[01:08:57] [Server thread/INFO]: Using epoll channel type
-[01:08:57] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[01:08:57] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[01:08:57] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[01:08:57] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[01:08:57] [Server thread/INFO]: Preparing level "world"
-[01:08:58] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[01:08:58] [Server thread/INFO]: Time elapsed: 25 ms
-[01:08:58] [Server thread/INFO]: Done (1.269s)! For help, type "help"
-[01:09:23] [Server thread/INFO]: elguatavo7u7159[/127.232.85.242:50243] logged in with entity id 1 at (79.30000001192093, 64.0, 107.69999998807907)
-[01:09:23] [Server thread/INFO]: elguatavo7u7159 joined the game
-[01:09:24] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2011ms or 40 ticks behind
-[01:09:45] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6140ms or 122 ticks behind
-[01:10:30] [Server thread/INFO]: NAT3333[/127.35.122.19:35069] logged in with entity id 534 at (-476.32868349183593, 81.0, 1333.6785693868085)
-[01:10:30] [Server thread/INFO]: NAT3333 joined the game
-[01:21:13] [Server thread/INFO]: [Not Secure] <NAT3333> a dormir carajoo
-[01:25:17] [Server thread/INFO]: com.mojang.authlib.GameProfile@201a644c[id=727da8e3-3bdf-3984-b365-8c5feeeb5d7a,name=mechajuan3,properties={}] lost connection: Disconnected
-[01:25:30] [Server thread/INFO]: mechajuan3[/127.241.198.181:48833] logged in with entity id 6345 at (76.09668433253695, 65.0, 71.1936039473517)
-[01:25:30] [Server thread/INFO]: mechajuan3 joined the game
-[01:32:59] [Server thread/INFO]: [Not Secure] <NAT3333> A DORMIRRRR
-[01:33:03] [Server thread/INFO]: [Not Secure] <NAT3333> PUTAAAAAAAAA
-[01:33:13] [Server thread/INFO]: elguatavo7u7159 lost connection: Disconnected
-[01:33:13] [Server thread/INFO]: elguatavo7u7159 left the game
-[01:33:23] [Server thread/INFO]: elguatavo7u7159[/127.232.85.242:59191] logged in with entity id 11704 at (-103.97845726010078, 166.0, -121.92577836484641)
-[01:33:23] [Server thread/INFO]: elguatavo7u7159 joined the game
-[01:33:29] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=0, y=0, z=0} jh{x=-102, y=166, z=-123}
-[01:34:53] [Server thread/INFO]: ThiaguitoOwO2021[/127.20.82.188:39147] logged in with entity id 12804 at (-55.98110891549366, 90.0, -94.4205847194042)
-[01:34:53] [Server thread/INFO]: ThiaguitoOwO2021 joined the game
-[01:35:03] [Server thread/INFO]: [Not Secure] <elguatavo7u7159> thiago flojo
-[01:35:12] [Server thread/INFO]: [Not Secure] <ThiaguitoOwO2021> :(
-[01:35:25] [Server thread/INFO]: [Not Secure] <elguatavo7u7159> thiago flojo
-[01:35:27] [Server thread/INFO]: [Not Secure] <elguatavo7u7159> thiago flojo
-[01:35:28] [Server thread/INFO]: [Not Secure] <elguatavo7u7159> thiago flojo
-[01:35:29] [Server thread/INFO]: [Not Secure] <elguatavo7u7159> thiago flojo
-[01:35:33] [Server thread/INFO]: [Not Secure] <elguatavo7u7159> travajas moy tento
-[01:35:40] [Server thread/INFO]: [Not Secure] <elguatavo7u7159> mas rapido
-[01:35:50] [Server thread/INFO]: [Not Secure] <ThiaguitoOwO2021> esq no soy adicto pe
-[01:37:18] [Server thread/INFO]: [Not Secure] <elguatavo7u7159> tiago
-[01:37:20] [Server thread/INFO]: [Not Secure] <elguatavo7u7159> discord
-[01:37:22] [Server thread/INFO]: [Not Secure] <ThiaguitoOwO2021> keso
-[01:37:25] [Server thread/INFO]: [Not Secure] <ThiaguitoOwO2021> no puedo
-[01:44:14] [Server thread/INFO]: [Not Secure] <elguatavo7u7159> compro polvora
-[01:44:23] [Server thread/INFO]: [Not Secure] <ThiaguitoOwO2021> a cambio de k
-[01:44:25] [Server thread/INFO]: [Not Secure] <NAT3333> DUERMAN GOLFAS
-[01:44:26] [Server thread/INFO]: [Not Secure] <elguatavo7u7159> 8 de polvora por un libro de reparacion
-[01:44:27] [Server thread/INFO]: [Not Secure] <ThiaguitoOwO2021> tengo 3 stacks
-[01:44:29] [Server thread/INFO]: [Not Secure] <elguatavo7u7159> 8 de polvora por un libro de reparacion
-[01:44:29] [Server thread/INFO]: [Not Secure] <ThiaguitoOwO2021> naaha
-[01:44:30] [Server thread/INFO]: [Not Secure] <elguatavo7u7159> 8 de polvora por un libro de reparacion
-[01:44:30] [Server thread/INFO]: [Not Secure] <ThiaguitoOwO2021> zzzzzz
-[01:44:37] [Server thread/INFO]: [Not Secure] <NAT3333> DUERMANNNNNNNNNNNNNNNNNNNNNNNNNN
-[01:44:39] [Server thread/INFO]: [Not Secure] <elguatavo7u7159> calla
-[01:44:48] [Server thread/INFO]: [Not Secure] <elguatavo7u7159> cccc
-[01:44:52] [Server thread/INFO]: [Not Secure] <elguatavo7u7159> xzzzzz
-[01:44:53] [Server thread/INFO]: Villager cpj['Villager'/15898, l='ServerLevel[world]', x=-204.62, y=66.00, z=290.45] died, message: 'Villager was slain by Zombie'
-[01:44:54] [Server thread/INFO]: [Not Secure] <elguatavo7u7159> zzzz
-[01:52:51] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=-112, y=117, z=-122} jh{x=-106, y=135, z=-123}
-[01:54:12] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=-107, y=118, z=-123} jh{x=-107, y=118, z=-122}
-[01:55:41] [Server thread/INFO]: [Not Secure] <NAT3333> a doemie carajo
-[01:55:43] [Server thread/INFO]: [Not Secure] <elguatavo7u7159> z
-[01:55:43] [Server thread/INFO]: [Not Secure] <elguatavo7u7159> z
-[01:55:43] [Server thread/INFO]: [Not Secure] <elguatavo7u7159> zz
-[01:55:44] [Server thread/INFO]: [Not Secure] <elguatavo7u7159> z
-[01:55:44] [Server thread/INFO]: [Not Secure] <elguatavo7u7159> z
-[01:55:44] [Server thread/INFO]: [Not Secure] <elguatavo7u7159> z
-[01:55:44] [Server thread/INFO]: [Not Secure] <elguatavo7u7159> z
-[01:55:44] [Server thread/INFO]: [Not Secure] <elguatavo7u7159> z
-[01:55:49] [Server thread/INFO]: [Not Secure] <ThiaguitoOwO2021> zz
-[01:55:49] [Server thread/INFO]: [Not Secure] <ThiaguitoOwO2021> z
-[01:55:49] [Server thread/INFO]: [Not Secure] <ThiaguitoOwO2021> zz
-[01:57:56] [Server thread/INFO]: [Not Secure] <ThiaguitoOwO2021> k kosa
-[01:59:11] [Server thread/INFO]: [Not Secure] <ThiaguitoOwO2021> noo
-[01:59:49] [Server thread/INFO]: [Not Secure] <ThiaguitoOwO2021> no tenog
-[01:59:51] [Server thread/INFO]: [Not Secure] <ThiaguitoOwO2021> tenia
-[02:01:00] [Server thread/INFO]: NAT3333 lost connection: Disconnected
-[02:01:00] [Server thread/INFO]: NAT3333 left the game
-[02:11:07] [Server thread/INFO]: [Not Secure] <ThiaguitoOwO2021> te revisaban hasta el alma
-[02:12:36] [Server thread/INFO]: [Not Secure] <ThiaguitoOwO2021> no
-[02:13:29] [Server thread/INFO]: [Not Secure] <ThiaguitoOwO2021> recien me doy cuenta q ya no soy pajero
-[02:13:35] [Server thread/INFO]: [Not Secure] <ThiaguitoOwO2021> :D
-[02:16:47] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=-105, y=118, z=-116} jh{x=-85, y=118, z=-120}
-[02:18:07] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=-100, y=116, z=-121} jh{x=-103, y=114, z=-123}
-[02:18:18] [Server thread/INFO]: NAT3333[/127.35.122.19:33755] logged in with entity id 38595 at (-477.0148905178932, 84.0, 1319.300000011921)
-[02:18:18] [Server thread/INFO]: NAT3333 joined the game
-[02:19:12] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=-107, y=119, z=-119} jh{x=-99, y=95, z=-120}
-[02:21:36] [Server thread/INFO]: [Not Secure] <ThiaguitoOwO2021> como el leo
-[02:21:59] [Server thread/INFO]: [Not Secure] <ThiaguitoOwO2021> 11
-[02:24:43] [Server thread/INFO]: [Not Secure] <ThiaguitoOwO2021> duerman
-[02:24:49] [Server thread/INFO]: mechajuan3 lost connection: Disconnected
-[02:24:49] [Server thread/INFO]: mechajuan3 left the game
-[02:24:49] [Server thread/INFO]: NAT3333 lost connection: Timed out
-[02:24:49] [Server thread/INFO]: NAT3333 left the game
-[02:24:49] [Server thread/WARN]: handleDisconnection() called twice
-[02:25:05] [Server thread/INFO]: mechajuan3[/127.241.198.181:57625] logged in with entity id 43110 at (8.585596843951834, 46.0, 71.60950490648868)
-[02:25:05] [Server thread/INFO]: mechajuan3 joined the game
-[02:25:57] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=-104, y=93, z=-116} jh{x=-114, y=95, z=-121}
-[02:28:37] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=-64, y=-58, z=33} jh{x=-64, y=-57, z=33}
-[02:28:50] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=-66, y=-55, z=33} jh{x=-66, y=-55, z=32}
-[02:28:57] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=-66, y=-54, z=30} jh{x=-66, y=-54, z=31}
-[02:28:57] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=-66, y=-54, z=29} jh{x=-66, y=-54, z=31}
-[02:28:58] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=-66, y=-54, z=28} jh{x=-66, y=-54, z=31}
-[02:28:58] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=-66, y=-54, z=27} jh{x=-66, y=-54, z=31}
-[02:28:58] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=-67, y=-54, z=27} jh{x=-66, y=-54, z=31}
-[02:28:58] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=-67, y=-54, z=28} jh{x=-66, y=-54, z=31}
-[02:29:44] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=-107, y=93, z=-117} jh{x=-104, y=94, z=-124}
-[02:29:49] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=-107, y=93, z=-117} jh{x=-104, y=94, z=-124}
-[02:48:05] [Server thread/INFO]: Stopping the server
-[02:48:05] [Server thread/INFO]: Stopping server
-[02:48:05] [Server thread/INFO]: Saving players
-[02:48:05] [Server thread/INFO]: elguatavo7u7159 lost connection: Server closed
-[02:48:05] [Server thread/INFO]: elguatavo7u7159 left the game
-[02:48:05] [Server thread/INFO]: Saving worlds
-[02:48:05] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[02:48:05] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
-[02:48:05] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
-[02:48:05] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[02:48:05] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[02:48:05] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[02:48:05] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[20:19:50] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[20:19:55] [ServerMain/INFO]: Loaded 1337 recipes
+[20:19:55] [ServerMain/INFO]: Loaded 1448 advancements
+[20:19:56] [Server thread/INFO]: Starting minecraft server version 1.21.3
+[20:19:56] [Server thread/INFO]: Loading properties
+[20:19:56] [Server thread/INFO]: Default game type: SURVIVAL
+[20:19:56] [Server thread/INFO]: Generating keypair
+[20:19:56] [Server thread/INFO]: Starting Minecraft server on *:25565
+[20:19:56] [Server thread/INFO]: Using epoll channel type
+[20:19:56] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[20:19:56] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[20:19:56] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[20:19:56] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[20:19:56] [Server thread/INFO]: Preparing level "world"
+[20:19:57] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[20:19:57] [Server thread/INFO]: Time elapsed: 21 ms
+[20:19:57] [Server thread/INFO]: Done (0.689s)! For help, type "help"
+[20:20:14] [Server thread/INFO]: ThiaguitoOwO2021[/127.20.82.188:36705] logged in with entity id 1 at (-51.97781680458758, 69.47217137711074, -100.18461728681766)
+[20:20:14] [Server thread/INFO]: ThiaguitoOwO2021 joined the game
+[20:20:14] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2812ms or 56 ticks behind
+[20:20:32] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3216ms or 64 ticks behind
+[20:23:43] [Server thread/INFO]: elguatavo7u7159[/127.188.105.249:58879] logged in with entity id 1940 at (-63.27265966252376, 69.0, -115.0982673071353)
+[20:23:43] [Server thread/INFO]: elguatavo7u7159 joined the game
+[20:23:47] [Server thread/INFO]: [Not Secure] <ThiaguitoOwO2021> we
+[20:23:51] [Server thread/INFO]: [Not Secure] <ThiaguitoOwO2021> checate este protip
+[20:24:02] [Server thread/INFO]: [Not Secure] <ThiaguitoOwO2021> vea pndj
+[20:24:27] [Server thread/INFO]: [Not Secure] <ThiaguitoOwO2021> viste we?
+[20:24:54] [Server thread/INFO]: [Not Secure] <ThiaguitoOwO2021> puedo hacer un flip
+[20:24:56] [Server thread/INFO]: [Not Secure] <ThiaguitoOwO2021> 360
+[20:25:17] [Server thread/INFO]: MrCreeper_143[/127.143.116.218:36855] logged in with entity id 2412 at (60.29794251959622, 65.0, 75.76747981950241)
+[20:25:17] [Server thread/INFO]: MrCreeper_143 joined the game
+[20:25:23] [Server thread/INFO]: [Not Secure] <ThiaguitoOwO2021> mano
+[20:25:29] [Server thread/INFO]: [Not Secure] <ThiaguitoOwO2021> puedo hacer un flip con als elitras
+[20:26:00] [Server thread/INFO]: [Not Secure] <ThiaguitoOwO2021> p
+[20:27:53] [Server thread/INFO]: [Not Secure] <ThiaguitoOwO2021> duerman
+[20:28:13] [Server thread/INFO]: [Not Secure] <MrCreeper_143> zzz
+[20:28:14] [Server thread/INFO]: ThiaguitoOwO2021 lost connection: Disconnected
+[20:28:14] [Server thread/INFO]: ThiaguitoOwO2021 left the game
+[20:28:14] [Server thread/INFO]: elguatavo7u7159 lost connection: Disconnected
+[20:28:14] [Server thread/INFO]: elguatavo7u7159 left the game
+[20:28:24] [Server thread/INFO]: elguatavo7u7159[/127.188.105.249:40005] logged in with entity id 3872 at (101.44263513009388, 84.0, 152.30000001192093)
+[20:28:24] [Server thread/INFO]: elguatavo7u7159 joined the game
+[20:28:55] [Server thread/INFO]: ThiaguitoOwO2021[/127.20.82.188:44623] logged in with entity id 4398 at (-62.49353867944892, 94.0, -74.42608255940999)
+[20:28:55] [Server thread/INFO]: ThiaguitoOwO2021 joined the game
+[20:29:11] [Server thread/INFO]: [Not Secure] <ThiaguitoOwO2021> we
+[20:29:14] [Server thread/INFO]: [Not Secure] <ThiaguitoOwO2021> ves mi pantalla?
