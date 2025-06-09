@@ -112,3 +112,16 @@
 [02:28:58] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=-67, y=-54, z=28} jh{x=-66, y=-54, z=31}
 [02:29:44] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=-107, y=93, z=-117} jh{x=-104, y=94, z=-124}
 [02:29:49] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=-107, y=93, z=-117} jh{x=-104, y=94, z=-124}
+[02:48:05] [Server thread/INFO]: Stopping the server
+[02:48:05] [Server thread/INFO]: Stopping server
+[02:48:05] [Server thread/INFO]: Saving players
+[02:48:05] [Server thread/INFO]: elguatavo7u7159 lost connection: Server closed
+[02:48:05] [Server thread/INFO]: elguatavo7u7159 left the game
+[02:48:05] [Server thread/INFO]: Saving worlds
+[02:48:05] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[02:48:05] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[02:48:05] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[02:48:05] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[02:48:05] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[02:48:05] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[02:48:05] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
