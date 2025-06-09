@@ -91,3 +91,24 @@
 [02:18:18] [Server thread/INFO]: NAT3333[/127.35.122.19:33755] logged in with entity id 38595 at (-477.0148905178932, 84.0, 1319.300000011921)
 [02:18:18] [Server thread/INFO]: NAT3333 joined the game
 [02:19:12] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=-107, y=119, z=-119} jh{x=-99, y=95, z=-120}
+[02:21:36] [Server thread/INFO]: [Not Secure] <ThiaguitoOwO2021> como el leo
+[02:21:59] [Server thread/INFO]: [Not Secure] <ThiaguitoOwO2021> 11
+[02:24:43] [Server thread/INFO]: [Not Secure] <ThiaguitoOwO2021> duerman
+[02:24:49] [Server thread/INFO]: mechajuan3 lost connection: Disconnected
+[02:24:49] [Server thread/INFO]: mechajuan3 left the game
+[02:24:49] [Server thread/INFO]: NAT3333 lost connection: Timed out
+[02:24:49] [Server thread/INFO]: NAT3333 left the game
+[02:24:49] [Server thread/WARN]: handleDisconnection() called twice
+[02:25:05] [Server thread/INFO]: mechajuan3[/127.241.198.181:57625] logged in with entity id 43110 at (8.585596843951834, 46.0, 71.60950490648868)
+[02:25:05] [Server thread/INFO]: mechajuan3 joined the game
+[02:25:57] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=-104, y=93, z=-116} jh{x=-114, y=95, z=-121}
+[02:28:37] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=-64, y=-58, z=33} jh{x=-64, y=-57, z=33}
+[02:28:50] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=-66, y=-55, z=33} jh{x=-66, y=-55, z=32}
+[02:28:57] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=-66, y=-54, z=30} jh{x=-66, y=-54, z=31}
+[02:28:57] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=-66, y=-54, z=29} jh{x=-66, y=-54, z=31}
+[02:28:58] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=-66, y=-54, z=28} jh{x=-66, y=-54, z=31}
+[02:28:58] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=-66, y=-54, z=27} jh{x=-66, y=-54, z=31}
+[02:28:58] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=-67, y=-54, z=27} jh{x=-66, y=-54, z=31}
+[02:28:58] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=-67, y=-54, z=28} jh{x=-66, y=-54, z=31}
+[02:29:44] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=-107, y=93, z=-117} jh{x=-104, y=94, z=-124}
+[02:29:49] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=-107, y=93, z=-117} jh{x=-104, y=94, z=-124}
