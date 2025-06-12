@@ -88,3 +88,18 @@
 [20:01:36] [Server thread/WARN]: handleDisconnection() called twice
 [20:02:07] [Server thread/INFO]: MrCreeper_143[/127.143.116.218:54017] logged in with entity id 20979 at (-16.712999431516952, 66.35103571863426, 15.202981350531882)
 [20:02:07] [Server thread/INFO]: MrCreeper_143 joined the game
+[20:04:46] [Server thread/INFO]: [Not Secure] <ThiaguitoOwO2021> g
+[20:06:08] [Server thread/INFO]: [Not Secure] <ThiaguitoOwO2021> pon hojas
+[20:06:18] [Server thread/INFO]: [Not Secure] <MrCreeper_143> ok
+[20:06:47] [Server thread/INFO]: mechajuan3[/127.241.198.181:55675] logged in with entity id 22093 at (-51.37682713861081, 69.71050000473856, -100.38825388894547)
+[20:06:47] [Server thread/INFO]: mechajuan3 joined the game
+[20:07:08] [Server thread/INFO]: [Not Secure] <ThiaguitoOwO2021> ssisi
+[20:07:47] [Server thread/INFO]: mechajuan3 lost connection: Timed out
+[20:07:47] [Server thread/INFO]: mechajuan3 left the game
+[20:08:37] [Server thread/INFO]: mechajuan3[/127.241.198.181:46299] logged in with entity id 22992 at (-89.69277379924844, 70.02442408821369, -114.41237962195221)
+[20:08:37] [Server thread/INFO]: mechajuan3 joined the game
+[20:13:40] [Server thread/INFO]: MrCreeper_143 lost connection: Disconnected
+[20:13:40] [Server thread/INFO]: MrCreeper_143 left the game
+[20:14:29] [Server thread/INFO]: MrCreeper_143[/127.143.116.218:50105] logged in with entity id 26759 at (281.16176729618803, 42.0, -6.387256635130726)
+[20:14:29] [Server thread/INFO]: MrCreeper_143 joined the game
+[20:22:37] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=280, y=46, z=-2} jh{x=278, y=45, z=-1}
