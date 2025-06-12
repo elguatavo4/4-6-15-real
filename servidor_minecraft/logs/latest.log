@@ -139,3 +139,18 @@
 [02:08:23] [Server thread/INFO]: [Not Secure] <elguatavo7u7159> si
 [02:08:25] [Server thread/INFO]: [Not Secure] <elguatavo7u7159> un rato
 [02:08:44] [Server thread/INFO]: [Not Secure] <elguatavo7u7159> aca
+[02:22:34] [Server thread/INFO]: Stopping the server
+[02:22:34] [Server thread/INFO]: Stopping server
+[02:22:34] [Server thread/INFO]: Saving players
+[02:22:34] [Server thread/INFO]: elguatavo7u7159 lost connection: Server closed
+[02:22:34] [Server thread/INFO]: elguatavo7u7159 left the game
+[02:22:34] [Server thread/INFO]: PAPUpro777 lost connection: Server closed
+[02:22:34] [Server thread/INFO]: PAPUpro777 left the game
+[02:22:34] [Server thread/INFO]: Saving worlds
+[02:22:34] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[02:22:34] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[02:22:34] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[02:22:34] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[02:22:34] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[02:22:34] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[02:22:34] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
