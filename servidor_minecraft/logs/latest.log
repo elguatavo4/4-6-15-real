@@ -453,3 +453,42 @@
 [22:33:06] [Server thread/INFO]: MrCreeper_143[/127.143.116.218:40723] logged in with entity id 115645 at (209.3033156377507, 62.0, 120.55382016056343)
 [22:33:06] [Server thread/INFO]: MrCreeper_143 joined the game
 [22:34:56] [Server thread/INFO]: Villager cpj['Librarian'/57137, l='ServerLevel[world]', x=58.70, y=71.00, z=64.64] died, message: 'Librarian was slain by elguatavo7u7159'
+[22:39:07] [Server thread/INFO]: ThiaguitoOwO2021 has completed the challenge [Cover Me in Debris]
+[22:41:13] [Server thread/INFO]: MrCreeper_143 lost connection: Disconnected
+[22:41:13] [Server thread/INFO]: MrCreeper_143 left the game
+[22:41:48] [Server thread/INFO]: ThiaguitoOwO2021 lost connection: Disconnected
+[22:41:48] [Server thread/INFO]: ThiaguitoOwO2021 left the game
+[22:42:38] [Server thread/INFO]: ThiaguitoOwO2021[/127.20.82.188:56105] logged in with entity id 121281 at (24.106665286202844, 64.0, 112.15370115020433)
+[22:42:38] [Server thread/INFO]: ThiaguitoOwO2021 joined the game
+[22:43:34] [Server thread/INFO]: Villager cpj['Villager'/121477, l='ServerLevel[world]', x=11.56, y=116.00, z=5.30] died, message: 'Villager was slain by elguatavo7u7159'
+[22:43:37] [Server thread/INFO]: Villager cpj['Villager'/121523, l='ServerLevel[world]', x=12.90, y=118.00, z=16.54] died, message: 'Villager was slain by elguatavo7u7159'
+[22:43:39] [Server thread/INFO]: Villager cpj['Villager'/121466, l='ServerLevel[world]', x=16.70, y=121.75, z=16.48] died, message: 'Villager was slain by elguatavo7u7159'
+[22:43:41] [Server thread/INFO]: Villager cpj['Villager'/121469, l='ServerLevel[world]', x=16.23, y=121.00, z=16.43] died, message: 'Villager was slain by elguatavo7u7159'
+[22:43:44] [Server thread/INFO]: Villager cpj['Villager'/121468, l='ServerLevel[world]', x=17.49, y=124.31, z=15.32] died, message: 'Villager was slain by elguatavo7u7159'
+[22:43:47] [Server thread/INFO]: Villager cpj['Villager'/121522, l='ServerLevel[world]', x=19.67, y=125.00, z=19.51] died, message: 'Villager was slain by elguatavo7u7159'
+[22:43:49] [Server thread/INFO]: Villager cpj['Villager'/121521, l='ServerLevel[world]', x=19.70, y=125.05, z=19.30] died, message: 'Villager was slain by elguatavo7u7159'
+[22:46:52] [Server thread/INFO]: Villager cpj['Villager'/48473, l='ServerLevel[world]', x=61.70, y=64.00, z=107.49] died, message: 'Villager was slain by PAPUpro777'
+[22:47:23] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=5, y=118, z=0} jh{x=-1, y=117, z=18}
+[22:48:00] [Server thread/INFO]: Villager cpj['Fletcher'/7048, l='ServerLevel[world]', x=49.53, y=63.00, z=116.08] died, message: 'Fletcher was slain by Zombie'
+[22:50:53] [Server thread/INFO]: ThiaguitoOwO2021 lost connection: Disconnected
+[22:50:53] [Server thread/INFO]: ThiaguitoOwO2021 left the game
+[22:51:16] [Server thread/INFO]: ThiaguitoOwO2021[/127.20.82.188:41915] logged in with entity id 127237 at (47.06774268238224, 64.0, 85.55670571515627)
+[22:51:16] [Server thread/INFO]: ThiaguitoOwO2021 joined the game
+[22:51:24] [Server thread/INFO]: [Not Secure] <ThiaguitoOwO2021> ES FALSO
+[22:51:26] [Server thread/INFO]: [Not Secure] <ThiaguitoOwO2021> LA IP
+[22:51:27] [Server thread/INFO]: [Not Secure] <ThiaguitoOwO2021> XD
+[22:52:31] [Server thread/INFO]: ThiaguitoOwO2021 lost connection: Disconnected
+[22:52:31] [Server thread/INFO]: ThiaguitoOwO2021 left the game
+[22:52:40] [Server thread/INFO]: Stopping the server
+[22:52:40] [Server thread/INFO]: Stopping server
+[22:52:40] [Server thread/INFO]: Saving players
+[22:52:40] [Server thread/INFO]: PAPUpro777 lost connection: Server closed
+[22:52:40] [Server thread/INFO]: PAPUpro777 left the game
+[22:52:40] [Server thread/INFO]: Saving worlds
+[22:52:40] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[22:52:40] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[22:52:40] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[22:52:40] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[22:52:40] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[22:52:40] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[22:52:40] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
