@@ -545,26 +545,28 @@
       "minecraft:blaze": "2025-05-28 22:59:59 +0000",
       "minecraft:pillager": "2025-06-08 01:45:32 +0000",
       "minecraft:skeleton": "2025-05-20 23:47:14 +0000",
+      "minecraft:ravager": "2025-06-08 17:58:23 +0000",
+      "minecraft:ghast": "2025-05-28 23:15:22 +0000",
+      "minecraft:hoglin": "2025-06-12 22:08:28 +0000",
+      "minecraft:vindicator": "2025-06-08 17:53:15 +0000",
+      "minecraft:magma_cube": "2025-05-21 00:22:43 +0000",
+      "minecraft:spider": "2025-05-20 23:43:33 +0000",
+      "minecraft:piglin_brute": "2025-06-12 22:04:42 +0000",
+      "minecraft:creeper": "2025-05-21 01:04:27 +0000",
+      "minecraft:evoker": "2025-06-08 17:58:08 +0000",
       "minecraft:phantom": "2025-05-28 23:32:05 +0000",
       "minecraft:zombified_piglin": "2025-06-03 23:32:47 +0000",
       "minecraft:witch": "2025-05-28 01:19:00 +0000",
       "minecraft:wither_skeleton": "2025-05-28 23:10:57 +0000",
-      "minecraft:ravager": "2025-06-08 17:58:23 +0000",
-      "minecraft:ghast": "2025-05-28 23:15:22 +0000",
       "minecraft:shulker": "2025-06-02 01:54:00 +0000",
       "minecraft:piglin": "2025-05-21 00:02:44 +0000",
-      "minecraft:vindicator": "2025-06-08 17:53:15 +0000",
       "minecraft:enderman": "2025-05-25 00:13:56 +0000",
       "minecraft:stray": "2025-05-28 00:31:51 +0000",
       "minecraft:silverfish": "2025-06-02 00:53:49 +0000",
-      "minecraft:magma_cube": "2025-05-21 00:22:43 +0000",
-      "minecraft:spider": "2025-05-20 23:43:33 +0000",
       "minecraft:vex": "2025-06-08 18:01:44 +0000",
       "minecraft:zombie": "2025-05-20 23:40:17 +0000",
-      "minecraft:creeper": "2025-05-21 01:04:27 +0000",
       "minecraft:drowned": "2025-06-03 19:27:02 +0000",
-      "minecraft:zombie_villager": "2025-06-08 02:50:32 +0000",
-      "minecraft:evoker": "2025-06-08 17:58:08 +0000"
+      "minecraft:zombie_villager": "2025-06-08 02:50:32 +0000"
     },
     "done": false
   },
@@ -3602,9 +3604,45 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_blackstone_brick_slab": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2025-06-12 22:06:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/distract_piglin": {
+    "criteria": {
+      "distract_piglin": "2025-06-12 22:12:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_brick_stairs": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2025-06-12 22:06:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/netherite_upgrade_smithing_template": {
+    "criteria": {
+      "has_netherite_upgrade_smithing_template": "2025-06-12 22:05:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_blasting_nether_gold_ore": {
+    "criteria": {
+      "has_nether_gold_ore": "2025-06-12 21:58:00 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/netherite_scrap_from_blasting": {
     "criteria": {
       "has_ancient_debris": "2025-06-12 21:54:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/loot_bastion": {
+    "criteria": {
+      "loot_bastion_other": "2025-06-12 22:05:48 +0000"
     },
     "done": true
   },
@@ -3614,15 +3652,63 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/polished_blackstone_brick_wall_from_polished_blackstone_bricks_stonecutting": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2025-06-12 22:06:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cracked_polished_blackstone_bricks": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2025-06-12 22:06:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_brick_slab_from_polished_blackstone_bricks_stonecutting": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2025-06-12 22:06:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_smelting_nether_gold_ore": {
+    "criteria": {
+      "has_nether_gold_ore": "2025-06-12 21:58:00 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/netherite_scrap": {
     "criteria": {
       "has_ancient_debris": "2025-06-12 21:54:02 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/decorations/polished_blackstone_brick_wall": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2025-06-12 22:06:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/find_bastion": {
+    "criteria": {
+      "bastion": "2025-06-12 22:04:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/netherite_ingot": {
+    "criteria": {
+      "has_netherite_scrap": "2025-06-12 22:05:55 +0000"
+    },
+    "done": true
+  },
   "minecraft:nether/obtain_ancient_debris": {
     "criteria": {
       "ancient_debris": "2025-06-12 21:54:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_brick_stairs_from_polished_blackstone_bricks_stonecutting": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2025-06-12 22:06:57 +0000"
     },
     "done": true
   },
