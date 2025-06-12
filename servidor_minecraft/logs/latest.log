@@ -338,3 +338,21 @@
 [21:35:44] [Server thread/INFO]: MrCreeper_143 left the game
 [21:36:10] [Server thread/INFO]: MrCreeper_143[/127.143.116.218:52229] logged in with entity id 72672 at (23.23188321978722, 47.92159999847412, 161.5322307781204)
 [21:36:10] [Server thread/INFO]: MrCreeper_143 joined the game
+[21:37:40] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=-11, y=43, z=203} jh{x=-11, y=42, z=204}
+[21:37:40] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=-11, y=43, z=204} jh{x=-11, y=42, z=204}
+[21:37:40] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=-12, y=43, z=204} jh{x=-11, y=42, z=204}
+[21:37:40] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=-12, y=43, z=205} jh{x=-11, y=42, z=204}
+[21:37:40] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=-13, y=43, z=205} jh{x=-11, y=42, z=204}
+[21:37:55] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=-12, y=41, z=204} jh{x=-10, y=40, z=203}
+[21:38:09] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=-8, y=37, z=195} jh{x=-8, y=36, z=198}
+[21:41:06] [Server thread/INFO]: [Not Secure] <PAPUpro777> Z
+[21:41:06] [Server thread/INFO]: [Not Secure] <PAPUpro777> Z
+[21:41:07] [Server thread/INFO]: [Not Secure] <PAPUpro777> Z
+[21:41:07] [Server thread/INFO]: [Not Secure] <PAPUpro777> Z
+[21:41:07] [Server thread/INFO]: [Not Secure] <PAPUpro777> Z
+[21:41:07] [Server thread/INFO]: [Not Secure] <PAPUpro777> Z
+[21:41:07] [Server thread/INFO]: [Not Secure] <PAPUpro777> Z
+[21:41:07] [Server thread/INFO]: [Not Secure] <PAPUpro777> Z
+[21:41:08] [Server thread/INFO]: [Not Secure] <PAPUpro777> Z
+[21:41:17] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=-23, y=33, z=196} jh{x=-24, y=42, z=198}
+[21:41:22] [Server thread/INFO]: Villager cpj['Villager'/72862, l='ServerLevel[world]', x=34.75, y=116.00, z=12.59] died, message: 'Villager was slain by elguatavo7u7159'
