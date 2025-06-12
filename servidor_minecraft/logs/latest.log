@@ -356,3 +356,23 @@
 [21:41:08] [Server thread/INFO]: [Not Secure] <PAPUpro777> Z
 [21:41:17] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=-23, y=33, z=196} jh{x=-24, y=42, z=198}
 [21:41:22] [Server thread/INFO]: Villager cpj['Villager'/72862, l='ServerLevel[world]', x=34.75, y=116.00, z=12.59] died, message: 'Villager was slain by elguatavo7u7159'
+[21:47:44] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=-23, y=28, z=64} jh{x=-26, y=27, z=62}
+[21:47:48] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=-23, y=28, z=64} jh{x=-26, y=28, z=63}
+[21:47:55] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=-26, y=27, z=62} jh{x=-26, y=27, z=61}
+[21:47:56] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=-26, y=27, z=61} jh{x=-27, y=27, z=61}
+[21:47:57] [Server thread/INFO]: MrCreeper_143 lost connection: Timed out
+[21:47:57] [Server thread/INFO]: MrCreeper_143 left the game
+[21:48:27] [Server thread/INFO]: MrCreeper_143[/127.143.116.218:37709] logged in with entity id 78847 at (-24.320078242402456, 27.0, 62.5287482649956)
+[21:48:27] [Server thread/INFO]: MrCreeper_143 joined the game
+[21:49:56] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=-23, y=30, z=53} jh{x=-29, y=35, z=60}
+[21:49:56] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=-23, y=30, z=53} jh{x=-28, y=35, z=60}
+[21:51:30] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=-32, y=32, z=55} jh{x=-46, y=37, z=64}
+[21:52:28] [Server thread/INFO]: MrCreeper_143 lost connection: Timed out
+[21:52:28] [Server thread/INFO]: MrCreeper_143 left the game
+[21:52:56] [Server thread/INFO]: MrCreeper_143[/127.143.116.218:42495] logged in with entity id 81628 at (-67.93526912357633, 37.0, 63.67561200152715)
+[21:52:56] [Server thread/INFO]: MrCreeper_143 joined the game
+[21:53:43] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=0, y=0, z=0} jh{x=-83, y=34, z=63}
+[21:53:45] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=0, y=0, z=0} jh{x=-81, y=34, z=65}
+[21:54:02] [Server thread/INFO]: elguatavo7u7159 has made the advancement [Hidden in the Depths]
+[21:56:46] [Server thread/INFO]: [Not Secure] <ThiaguitoOwO2021> gus
+[21:56:49] [Server thread/INFO]: [Not Secure] <ThiaguitoOwO2021> pase coordenada pe
