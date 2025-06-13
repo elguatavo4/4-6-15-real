@@ -29,3 +29,4 @@
 [01:31:27] [Server thread/WARN]: handleDisconnection() called twice
 [01:31:43] [Server thread/INFO]: ThiaguitoOwO2021[/127.20.82.188:48259] logged in with entity id 1578 at (71.3969599313827, 65.0, 74.17162587173361)
 [01:31:43] [Server thread/INFO]: ThiaguitoOwO2021 joined the game
+[01:43:26] [Server thread/INFO]: Villager cpj['Villager'/7892, l='ServerLevel[world]', x=-54.60, y=95.33, z=-70.49] died, message: 'Villager hit the ground too hard'
