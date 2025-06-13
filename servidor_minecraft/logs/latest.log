@@ -135,3 +135,16 @@
 [22:42:52] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=2, y=114, z=12} jh{x=1, y=112, z=12}
 [22:49:05] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=-15, y=31, z=56} jh{x=-15, y=30, z=57}
 [22:49:37] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=86, y=78, z=-31} jh{x=87, y=79, z=-30}
+[22:51:52] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=-91, y=31, z=64} jh{x=-91, y=30, z=64}
+[22:54:02] [Server thread/INFO]: Villager cpj['Villager'/41275, l='ServerLevel[world]', x=52.48, y=63.00, z=121.27] died, message: 'Villager was slain by Zombie'
+[23:02:31] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=95, y=30, z=32} jh{x=97, y=31, z=33}
+[23:03:32] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=95, y=30, z=32} jh{x=101, y=35, z=29}
+[23:04:16] [Server thread/INFO]: [Not Secure] <elguatavo7u7159> 17 27 15
+[23:04:17] [Server thread/INFO]: [Not Secure] <elguatavo7u7159> 17 27 15
+[23:14:36] [Server thread/INFO]: MrCreeper_143 lost connection: Disconnected
+[23:14:36] [Server thread/INFO]: MrCreeper_143 left the game
+[23:15:08] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=21, y=128, z=-59} jh{x=-59, y=186, z=-64}
+[23:15:10] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=21, y=128, z=-59} jh{x=-59, y=186, z=-65}
+[23:17:18] [Server thread/INFO]: MrCreeper_143[/127.143.116.218:33783] logged in with entity id 68867 at (10.300000011920929, 90.0, -25.501147985692164)
+[23:17:18] [Server thread/INFO]: MrCreeper_143 joined the game
+[23:17:44] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=-59, y=185, z=-69} jh{x=-65, y=187, z=-72}
