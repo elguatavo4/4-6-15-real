@@ -1,67 +1,36 @@
-[01:28:16] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[01:28:21] [ServerMain/INFO]: Loaded 1337 recipes
-[01:28:21] [ServerMain/INFO]: Loaded 1448 advancements
-[01:28:21] [Server thread/INFO]: Starting minecraft server version 1.21.3
-[01:28:21] [Server thread/INFO]: Loading properties
-[01:28:21] [Server thread/INFO]: Default game type: SURVIVAL
-[01:28:21] [Server thread/INFO]: Generating keypair
-[01:28:22] [Server thread/INFO]: Starting Minecraft server on *:25565
-[01:28:22] [Server thread/INFO]: Using epoll channel type
-[01:28:22] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[01:28:22] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[01:28:22] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[01:28:22] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[01:28:22] [Server thread/INFO]: Preparing level "world"
-[01:28:23] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[01:28:23] [Server thread/INFO]: Time elapsed: 27 ms
-[01:28:23] [Server thread/INFO]: Done (0.662s)! For help, type "help"
-[01:28:56] [Server thread/INFO]: elguatavo7u7159[/127.255.50.94:58083] logged in with entity id 1 at (9.42814846233552, 116.0, 10.507569628531751)
-[01:28:56] [Server thread/INFO]: elguatavo7u7159 joined the game
-[01:28:57] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2420ms or 48 ticks behind
-[01:29:14] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2311ms or 46 ticks behind
-[01:29:27] [Server thread/INFO]: MrCreeper_143[/127.143.116.218:45741] logged in with entity id 256 at (52.223375414069004, 65.0, 73.85202825824275)
-[01:29:27] [Server thread/INFO]: MrCreeper_143 joined the game
-[01:29:35] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5954ms or 119 ticks behind
-[01:30:57] [Server thread/INFO]: ThiaguitoOwO2021[/127.20.82.188:40189] logged in with entity id 1240 at (57.65736708752708, 64.0, 105.63358242204201)
-[01:30:57] [Server thread/INFO]: ThiaguitoOwO2021 joined the game
-[01:31:27] [Server thread/INFO]: ThiaguitoOwO2021 lost connection: Timed out
-[01:31:27] [Server thread/INFO]: ThiaguitoOwO2021 left the game
-[01:31:27] [Server thread/WARN]: handleDisconnection() called twice
-[01:31:43] [Server thread/INFO]: ThiaguitoOwO2021[/127.20.82.188:48259] logged in with entity id 1578 at (71.3969599313827, 65.0, 74.17162587173361)
-[01:31:43] [Server thread/INFO]: ThiaguitoOwO2021 joined the game
-[01:43:26] [Server thread/INFO]: Villager cpj['Villager'/7892, l='ServerLevel[world]', x=-54.60, y=95.33, z=-70.49] died, message: 'Villager hit the ground too hard'
-[01:49:07] [Server thread/WARN]: MrCreeper_143 moved too quickly! 0.033256398322691894,-0.7531999805212024,10.120124035847965
-[01:50:00] [Server thread/WARN]: MrCreeper_143 moved too quickly! -10.00506568312629,-0.5607643862182741,1.6072439202284272
-[01:54:07] [Server thread/WARN]: MrCreeper_143 moved too quickly! 0.4555129856357638,10.260468549836602,-1.3628833341827864
-[01:54:35] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=-58, y=123, z=-70} jh{x=-54, y=139, z=-71}
-[01:56:09] [Server thread/INFO]: Villager cpj['Villager'/15460, l='ServerLevel[world]', x=-33.60, y=140.46, z=-70.50] died, message: 'Villager was slain by elguatavo7u7159'
-[01:56:23] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=-58, y=123, z=-70} jh{x=-37, y=141, z=-71}
-[01:56:26] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=-50, y=140, z=-71} jh{x=-49, y=139, z=-71}
-[02:00:22] [Server thread/INFO]: [Not Secure] <ThiaguitoOwO2021> ME VOY WE
-[02:00:24] [Server thread/INFO]: [Not Secure] <ThiaguitoOwO2021> bai
-[02:00:25] [Server thread/INFO]: ThiaguitoOwO2021 lost connection: Disconnected
-[02:00:25] [Server thread/INFO]: ThiaguitoOwO2021 left the game
-[02:00:58] [Server thread/INFO]: Villager cpj['Villager'/8854, l='ServerLevel[world]', x=-35.11, y=113.56, z=-70.74] died, message: 'Villager was slain by Zombie'
-[02:00:59] [Server thread/WARN]: elguatavo7u7159 moved wrongly!
-[02:01:38] [Server thread/WARN]: elguatavo7u7159 moved wrongly!
-[02:03:28] [Server thread/WARN]: MrCreeper_143 moved too quickly! 0.563547842118183,10.021183765688534,-0.8557999356857824
-[02:04:41] [Server thread/INFO]: Villager cpj['Villager'/20352, l='ServerLevel[world]', x=-53.49, y=135.00, z=-73.60] died, message: 'Villager was slain by Zombie'
-[02:04:45] [Server thread/INFO]: MrCreeper_143 lost connection: Timed out
-[02:04:45] [Server thread/INFO]: MrCreeper_143 left the game
-[02:05:21] [Server thread/INFO]: MrCreeper_143[/127.143.116.218:49075] logged in with entity id 21085 at (107.97571347200757, 102.0, -16.019219072516613)
-[02:05:21] [Server thread/INFO]: MrCreeper_143 joined the game
-[02:05:37] [Server thread/INFO]: elguatavo7u7159 lost connection: Disconnected
-[02:05:37] [Server thread/INFO]: elguatavo7u7159 left the game
-[02:05:41] [Server thread/INFO]: MrCreeper_143 lost connection: Disconnected
-[02:05:41] [Server thread/INFO]: MrCreeper_143 left the game
-[02:05:45] [Server thread/INFO]: Stopping the server
-[02:05:45] [Server thread/INFO]: Stopping server
-[02:05:45] [Server thread/INFO]: Saving players
-[02:05:45] [Server thread/INFO]: Saving worlds
-[02:05:45] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[02:05:45] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
-[02:05:45] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
-[02:05:45] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[02:05:45] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[02:05:45] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[02:05:45] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[21:09:17] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[21:09:22] [ServerMain/INFO]: Loaded 1337 recipes
+[21:09:22] [ServerMain/INFO]: Loaded 1448 advancements
+[21:09:22] [Server thread/INFO]: Starting minecraft server version 1.21.3
+[21:09:22] [Server thread/INFO]: Loading properties
+[21:09:22] [Server thread/INFO]: Default game type: SURVIVAL
+[21:09:22] [Server thread/INFO]: Generating keypair
+[21:09:22] [Server thread/INFO]: Starting Minecraft server on *:25565
+[21:09:23] [Server thread/INFO]: Using epoll channel type
+[21:09:23] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[21:09:23] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[21:09:23] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[21:09:23] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[21:09:23] [Server thread/INFO]: Preparing level "world"
+[21:09:24] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[21:09:24] [Server thread/INFO]: Time elapsed: 26 ms
+[21:09:24] [Server thread/INFO]: Done (0.913s)! For help, type "help"
+[21:09:56] [Server thread/INFO]: MrCreeper_143[/127.143.116.218:50031] logged in with entity id 1 at (107.97571347200757, 102.0, -16.019219072516613)
+[21:09:56] [Server thread/INFO]: MrCreeper_143 joined the game
+[21:09:56] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2324ms or 46 ticks behind
+[21:10:05] [Server thread/INFO]: elguatavo7u7159[/127.177.55.165:50401] logged in with entity id 281 at (-0.699999988079071, 113.0, 12.699999988079071)
+[21:10:05] [Server thread/INFO]: elguatavo7u7159 joined the game
+[21:10:23] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 12253ms or 245 ticks behind
+[21:10:41] [Server thread/INFO]: [Not Secure] <MrCreeper_143> z
+[21:10:41] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2931ms or 58 ticks behind
+[21:11:31] [Server thread/INFO]: PAPUpro777[/127.177.55.165:42471] logged in with entity id 1168 at (62.19999998807907, 64.0, 106.30000001192093)
+[21:11:31] [Server thread/INFO]: PAPUpro777 joined the game
+[21:12:49] [Server thread/INFO]: ThiaguitoOwO2021[/127.20.82.188:34435] logged in with entity id 2073 at (-0.7427414733904409, 94.0, -119.18864193114642)
+[21:12:49] [Server thread/INFO]: ThiaguitoOwO2021 joined the game
+[21:12:55] [Server thread/INFO]: [Not Secure] <ThiaguitoOwO2021> tu tambien tienes elitras pe
+[21:13:25] [Server thread/INFO]: ThiaguitoOwO2021 lost connection: Disconnected
+[21:13:25] [Server thread/INFO]: ThiaguitoOwO2021 left the game
+[21:14:32] [Server thread/INFO]: ThiaguitoOwO2021[/127.20.82.188:46543] logged in with entity id 2816 at (-1.145082008936616, 94.0, -119.06220646666532)
+[21:14:32] [Server thread/INFO]: ThiaguitoOwO2021 joined the game
+[21:15:38] [Server thread/INFO]: [Not Secure] <MrCreeper_143> mewing
+[21:16:49] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=-21, y=93, z=-123} jh{x=-8, y=94, z=-109}
