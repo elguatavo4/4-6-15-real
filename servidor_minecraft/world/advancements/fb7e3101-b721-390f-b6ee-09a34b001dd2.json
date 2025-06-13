@@ -2369,5 +2369,17 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/suspicious_stew_from_cornflower": {
+    "criteria": {
+      "has_cornflower": "2025-06-13 21:48:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/blue_dye_from_cornflower": {
+    "criteria": {
+      "has_cornflower": "2025-06-13 21:48:28 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 4082
 }

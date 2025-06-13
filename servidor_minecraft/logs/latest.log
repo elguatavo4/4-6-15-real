@@ -41,3 +41,12 @@
 [21:28:02] [Server thread/INFO]: mechajuan3[/127.241.198.181:56837] logged in with entity id 11020 at (66.43947258645655, 63.0, 80.40547464891144)
 [21:28:02] [Server thread/INFO]: mechajuan3 joined the game
 [21:30:51] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=171, y=65, z=36} jh{x=171, y=64, z=37}
+[21:40:40] [Server thread/WARN]: mechajuan3 moved too quickly! 8.358010411407903,1.3693736602695026,5.74245330425326
+[21:40:48] [Server thread/INFO]: mechajuan3 lost connection: Timed out
+[21:40:48] [Server thread/INFO]: mechajuan3 left the game
+[21:40:48] [Server thread/WARN]: handleDisconnection() called twice
+[21:40:59] [Server thread/INFO]: mechajuan3[/127.241.198.181:59363] logged in with entity id 17393 at (135.95071763930824, 66.00133597911214, 95.11730532328133)
+[21:40:59] [Server thread/INFO]: mechajuan3 joined the game
+[21:43:45] [Server thread/INFO]: Villager cpj['Villager'/429, l='ServerLevel[world]', x=-33.72, y=113.56, z=-71.70] died, message: 'Villager was slain by Zombie'
+[21:43:50] [Server thread/INFO]: Villager cpj['Villager'/430, l='ServerLevel[world]', x=-33.49, y=113.56, z=-71.46] died, message: 'Villager was slain by Zombie'
+[21:48:22] [Server thread/INFO]: Villager cpj['Fletcher'/204, l='ServerLevel[world]', x=74.30, y=65.00, z=63.30] died, message: 'Fletcher was slain by Zombie'
