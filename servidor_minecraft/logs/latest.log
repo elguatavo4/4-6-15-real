@@ -45,3 +45,12 @@
 [00:57:42] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=-60, y=164, z=-74} jh{x=-59, y=163, z=-74}
 [00:57:53] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=-55, y=162, z=-76} jh{x=-62, y=164, z=-73}
 [00:59:41] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=-55, y=162, z=-76} jh{x=-58, y=187, z=-69}
+[01:03:54] [Server thread/INFO]: _TaeV_[/127.13.149.137:58337] logged in with entity id 123919 at (60.136950993996486, 71.0, 232.7834500536517)
+[01:03:54] [Server thread/INFO]: _TaeV_ joined the game
+[01:04:46] [Server thread/INFO]: _TaeV_ lost connection: Disconnected
+[01:04:46] [Server thread/INFO]: _TaeV_ left the game
+[01:05:31] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=-59, y=162, z=-77} jh{x=-60, y=163, z=-73}
+[01:06:10] [Server thread/INFO]: _TaeV_[/127.13.149.137:42701] logged in with entity id 125025 at (69.00194914678339, 71.0, 248.6129765595191)
+[01:06:10] [Server thread/INFO]: _TaeV_ joined the game
+[01:07:28] [Server thread/INFO]: Villager cpj['Villager'/124928, l='ServerLevel[world]', x=-53.64, y=78.57, z=-73.22] died, message: 'Villager hit the ground too hard'
+[01:09:50] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=11, y=247, z=60} jh{x=14, y=244, z=56}
