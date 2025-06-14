@@ -559,7 +559,8 @@
       "minecraft:magma_cube": "2025-05-28 22:59:29 +0000",
       "minecraft:spider": "2025-06-13 23:46:48 +0000",
       "minecraft:wither_skeleton": "2025-05-28 23:11:26 +0000",
-      "minecraft:zombie": "2025-06-13 23:32:43 +0000"
+      "minecraft:zombie": "2025-06-13 23:32:43 +0000",
+      "minecraft:creeper": "2025-06-14 00:25:08 +0000"
     },
     "done": false
   },
@@ -992,6 +993,18 @@
   "minecraft:recipes/building_blocks/bookshelf": {
     "criteria": {
       "has_book": "2025-06-13 23:55:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_nugget_from_smelting": {
+    "criteria": {
+      "has_golden_boots": "2025-06-14 00:25:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_nugget_from_blasting": {
+    "criteria": {
+      "has_golden_boots": "2025-06-14 00:25:58 +0000"
     },
     "done": true
   },
