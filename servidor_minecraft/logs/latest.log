@@ -10,3 +10,7 @@
 [00:08:46] [Server thread/INFO]: Villager cpj['Fletcher'/68572, l='ServerLevel[world]', x=62.31, y=68.00, z=61.69] died, message: 'Fletcher was slain by Zombie'
 [00:08:57] [Server thread/INFO]: Villager cpj['Fletcher'/73007, l='ServerLevel[world]', x=64.70, y=68.00, z=61.70] died, message: 'Fletcher was slain by Zombie'
 [00:11:31] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=12, y=235, z=60} jh{x=15, y=236, z=60}
+[00:15:47] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=14, y=240, z=64} jh{x=14, y=240, z=63}
+[00:16:11] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=14, y=239, z=63} jh{x=11, y=240, z=60}
+[00:18:44] [Server thread/INFO]: Villager cpj['Villager'/97554, l='ServerLevel[world]', x=4.30, y=113.00, z=11.50] died, message: 'Villager was slain by Zombie Villager'
+[00:21:09] [Server thread/INFO]: Villager cpj['Villager'/94600, l='ServerLevel[world]', x=6.98, y=113.00, z=11.36] died, message: 'Villager was slain by Zombie Villager'
