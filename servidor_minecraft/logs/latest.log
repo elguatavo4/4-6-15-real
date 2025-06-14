@@ -91,3 +91,16 @@
 [02:03:50] [Server thread/INFO]: elguatavo7u7159 left the game
 [02:04:06] [Server thread/INFO]: MrCreeper_143 lost connection: Disconnected
 [02:04:06] [Server thread/INFO]: MrCreeper_143 left the game
+[02:05:13] [Server thread/INFO]: _TaeV_ lost connection: Disconnected
+[02:05:13] [Server thread/INFO]: _TaeV_ left the game
+[02:08:01] [Server thread/INFO]: Stopping the server
+[02:08:01] [Server thread/INFO]: Stopping server
+[02:08:01] [Server thread/INFO]: Saving players
+[02:08:01] [Server thread/INFO]: Saving worlds
+[02:08:01] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[02:08:01] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[02:08:01] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[02:08:01] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[02:08:01] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[02:08:01] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[02:08:01] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
