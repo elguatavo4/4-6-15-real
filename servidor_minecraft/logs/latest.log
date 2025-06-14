@@ -23,3 +23,10 @@
 [00:28:23] [Server thread/INFO]: [Not Secure] <PAPUpro777> aaa
 [00:28:39] [Server thread/INFO]: elguatavo7u7159[/127.177.55.165:43711] logged in with entity id 104108 at (-53.38952791721393, 140.0, -75.57232334531625)
 [00:28:39] [Server thread/INFO]: elguatavo7u7159 joined the game
+[00:32:44] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=15, y=241, z=59} jh{x=14, y=241, z=58}
+[00:32:46] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2000ms or 40 ticks behind
+[00:33:41] [Server thread/INFO]: Villager cpj['Villager'/99736, l='ServerLevel[world]', x=-55.89, y=114.00, z=-94.61] died, message: 'Villager was slain by Niño de Gusman'
+[00:36:44] [Server thread/INFO]: Villager cpj['Villager'/109568, l='ServerLevel[world]', x=4.30, y=113.00, z=11.51] died, message: 'Villager was slain by Niño de Gusman'
+[00:39:50] [Server thread/INFO]: Villager cpj['Villager'/109448, l='ServerLevel[world]', x=6.96, y=113.00, z=11.32] died, message: 'Villager was slain by Zombie Villager'
+[00:39:59] [Server thread/INFO]: Villager cpj['Villager'/105766, l='ServerLevel[world]', x=7.70, y=113.00, z=12.70] died, message: 'Villager was slain by Niño de Gusman'
+[00:42:05] [Server thread/INFO]: Villager cpj['Villager'/105637, l='ServerLevel[world]', x=7.70, y=113.00, z=12.70] died, message: 'Villager was slain by Zombie Villager'
