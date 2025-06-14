@@ -469,7 +469,8 @@
     "criteria": {
       "minecraft:nether_wastes": "2025-05-28 22:53:49 +0000",
       "minecraft:soul_sand_valley": "2025-05-28 23:12:53 +0000",
-      "minecraft:basalt_deltas": "2025-05-28 22:56:45 +0000"
+      "minecraft:basalt_deltas": "2025-05-28 22:56:45 +0000",
+      "minecraft:warped_forest": "2025-06-14 01:52:51 +0000"
     },
     "done": false
   },
@@ -556,6 +557,7 @@
       "minecraft:blaze": "2025-05-28 23:00:12 +0000",
       "minecraft:skeleton": "2025-05-28 23:11:06 +0000",
       "minecraft:zombified_piglin": "2025-06-13 23:50:10 +0000",
+      "minecraft:enderman": "2025-06-14 01:55:08 +0000",
       "minecraft:magma_cube": "2025-05-28 22:59:29 +0000",
       "minecraft:spider": "2025-06-13 23:46:48 +0000",
       "minecraft:wither_skeleton": "2025-05-28 23:11:26 +0000",
