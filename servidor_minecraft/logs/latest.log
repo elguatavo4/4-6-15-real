@@ -57,3 +57,6 @@
 [01:13:43] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2055ms or 41 ticks behind
 [01:21:53] [Server thread/INFO]: elguatavo7u7159 was slain by Zombie
 [01:22:40] [Server thread/INFO]: elguatavo7u7159 was slain by Zombie
+[01:24:15] [Server thread/INFO]: elguatavo7u7159 was shot by Skeleton
+[01:29:52] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=-55, y=185, z=-51} jh{x=-59, y=186, z=-68}
+[01:30:56] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=-9, y=116, z=9} jh{x=-9, y=116, z=4}
