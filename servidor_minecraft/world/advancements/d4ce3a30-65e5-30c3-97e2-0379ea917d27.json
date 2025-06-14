@@ -646,6 +646,7 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:piglin": "2025-06-13 23:16:19 +0000",
+      "minecraft:spider": "2025-06-13 23:30:55 +0000",
       "minecraft:zombie": "2025-06-03 19:05:11 +0000"
     },
     "done": false
@@ -878,6 +879,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/magma_block": {
+    "criteria": {
+      "has_magma_cream": "2025-06-13 23:34:21 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/brewing/fermented_spider_eye": {
     "criteria": {
       "has_spider_eye": "2025-06-13 22:27:30 +0000"
@@ -902,15 +909,33 @@
     },
     "done": true
   },
+  "minecraft:nether/obtain_blaze_rod": {
+    "criteria": {
+      "blaze_rod": "2025-06-13 23:34:21 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/fishing_rod": {
     "criteria": {
       "has_string": "2025-06-13 22:27:28 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/nether_wart_block": {
+    "criteria": {
+      "has_nether_wart": "2025-06-13 23:34:21 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/white_wool_from_string": {
     "criteria": {
       "has_string": "2025-06-13 22:27:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/blaze_powder": {
+    "criteria": {
+      "has_blaze_rod": "2025-06-13 23:34:21 +0000"
     },
     "done": true
   },
@@ -926,6 +951,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/red_nether_bricks": {
+    "criteria": {
+      "has_nether_wart": "2025-06-13 23:34:21 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/loom": {
     "criteria": {
       "has_string": "2025-06-13 22:27:28 +0000"
@@ -935,6 +966,12 @@
   "minecraft:recipes/tools/bundle": {
     "criteria": {
       "has_string": "2025-06-13 22:27:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/brewing_stand": {
+    "criteria": {
+      "has_blaze_rod": "2025-06-13 23:34:21 +0000"
     },
     "done": true
   },
